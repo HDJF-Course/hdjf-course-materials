@@ -10,7 +10,10 @@ This folder contains several datasets
 
 ## Israel Datasets
 
-- FOI Q4 2020 Contracts: [source][https://foi.gov.il/he/node/10422] :: [דוח חופש המידע מטה חשכל רבעון 4](israel/דוח%20חופש%20המידע%20מטה%20חשכל%20רבעון%204.xlsx)
+- FOI Q4 2020 Contracts: [source][https://foi.gov.il/he/node/10422] :: [דוח חופש המידע מטה חשכל רבעון 4.xlsx](israel/דוח%20חופש%20המידע%20מטה%20חשכל%20רבעון%204.xlsx)
+- netanyahu (twitter feed): [source](https://twitter.com/netanyahu) :: [netanyahu.xlsx](israel/twitter/netanyahu.xlsx) [netanyahu.json](israel/twitter/netanyahu.json)
+- assiazar (instagram feed): [source](https://www.instagram.com/assiazar/) :: [assiazar.xlsx](israel/instagram/assiazar.xlsx) [assiazar_img.zip](israel/instagram/assiazar_img.zip) 
+
 
 
 ### Google Search Results

@@ -1,0 +1,2 @@
+echo "[]" | jq -r '["created_at","twitter_id","screen_name","followers_count","friends_count","retweet_count","favorite_count","in_reply_to_screen_name","twitter_url","text","is_retweet","is_quote"] | @csv'
+jq -r '[(.created_at | strptime("%A %B %d %T %z %Y") | todate), .id_str, .user.screen_name, .user.followers_count, .user.friends_count, .retweet_count, .favorite_count, .in_reply_to_screen_name, "http://twitter.com/" + .user.screen_name + "/status/" + .id_str, (.full_text | gsub("\n";" ")), has("retweeted_status"), has("quoted_status")] | @csv'
