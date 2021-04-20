@@ -1,0 +1,2111 @@
+{
+  "TravelingOptions": {
+    "AM": {
+      "Code": "AM",
+      "HE": "משולב",
+      "EN": "Integrated",
+      "AR": "مدمج",
+      "RU": "Комбинированный"
+    },
+    "M": {
+      "Code": "M",
+      "HE": "משולב בתוך מטרופולין",
+      "EN": "Integrated metropolitan ",
+      "AR": "مدمج متروبولين",
+      "RU": "Комбинированный по мегаполису"
+    },
+    "R": {
+      "Code": "R",
+      "HE": "רכבת בלבד",
+      "EN": "Train only",
+      "AR": "قطار فقط",
+      "RU": "Только поезд"
+    },
+    "XM": {
+      "Code": "XM",
+      "HE": "משולב בין מטרופולינים",
+      "EN": "Integrated inter-metropolitan ",
+      "AR": "مدمج ما بين المتروبولينات",
+      "RU": "Комбинированный между мегаполисами"
+    }
+  },
+  "MetropolinesContract": [
+    {
+      "PREDEFINE": 141,
+      "Metro_Code": 4,
+      "Contract_Name_He": "גוש דן",
+      "Contract_Name_En": "Tel Aviv-Yaffo, Outskirts",
+      "Contract_Name_Ar": "غوش دان",
+      "Contract_Name_Ru": "Тель-Авив-Яффо Окрестности"
+    },
+    {
+      "PREDEFINE": 142,
+      "Metro_Code": 4,
+      "Contract_Name_He": "גוש דן מורחב",
+      "Contract_Name_En": "Tel Aviv-Yaffo Extended",
+      "Contract_Name_Ar": "غوش دان موسع",
+      "Contract_Name_Ru": "Тель-Авив-Яффо расширен"
+    },
+    {
+      "PREDEFINE": 143,
+      "Metro_Code": 4,
+      "Contract_Name_He": "גוש דן + צפון",
+      "Contract_Name_En": "Tel Aviv-Yaffo, North",
+      "Contract_Name_Ar": "غوش دان شمال",
+      "Contract_Name_Ru": "Тель-Авив - Яффо север"
+    },
+    {
+      "PREDEFINE": 144,
+      "Metro_Code": 2,
+      "Contract_Name_He": "גוש דן + דרום",
+      "Contract_Name_En": "Tel Aviv-Yaffo, South",
+      "Contract_Name_Ar": "غوش دان جنوب",
+      "Contract_Name_Ru": "Тель-Авив-Яффо Юг"
+    },
+    {
+      "PREDEFINE": 144,
+      "Metro_Code": 4,
+      "Contract_Name_He": "גוש דן + דרום",
+      "Contract_Name_En": "Tel Aviv-Yaffo, South",
+      "Contract_Name_Ar": "غوش دان جنوب",
+      "Contract_Name_Ru": "Тель-Авив-Яффо Юг"
+    },
+    {
+      "PREDEFINE": 145,
+      "Metro_Code": 4,
+      "Contract_Name_He": "השרון ונתניה",
+      "Contract_Name_En": "The Sharon and Netanya",
+      "Contract_Name_Ar": "هشارون ونتانيا",
+      "Contract_Name_Ru": "Шарон и Нетания"
+    },
+    {
+      "PREDEFINE": 146,
+      "Metro_Code": 2,
+      "Contract_Name_He": "מטרופולין מזרחי",
+      "Contract_Name_En": "Eastern Metropolitan Area",
+      "Contract_Name_Ar": "المتروبولين الشرقي",
+      "Contract_Name_Ru": "Восточная столица"
+    },
+    {
+      "PREDEFINE": 146,
+      "Metro_Code": 4,
+      "Contract_Name_He": "מטרופולין מזרחי",
+      "Contract_Name_En": "Eastern Metropolitan Area",
+      "Contract_Name_Ar": "المتروبولين الشرقي",
+      "Contract_Name_Ru": "Восточная столица"
+    },
+    {
+      "PREDEFINE": 147,
+      "Metro_Code": 2,
+      "Contract_Name_He": "מטרופולין דרומי",
+      "Contract_Name_En": "Southern Metropolitan Area",
+      "Contract_Name_Ar": "المتروبولين الجنوبي",
+      "Contract_Name_Ru": "Южная столица"
+    },
+    {
+      "PREDEFINE": 147,
+      "Metro_Code": 4,
+      "Contract_Name_He": "מטרופולין דרומי",
+      "Contract_Name_En": "Southern Metropolitan Area",
+      "Contract_Name_Ar": "المتروبولين الجنوبي",
+      "Contract_Name_Ru": "Южная столица"
+    },
+    {
+      "PREDEFINE": 150,
+      "Metro_Code": 2,
+      "Contract_Name_He": "חדרה-גוש דן",
+      "Contract_Name_En": "Hadera, Tel Aviv-Yaffo",
+      "Contract_Name_Ar": "الخضيرة, غوش دان",
+      "Contract_Name_Ru": "ХадераТель-Авив-Яффо"
+    },
+    {
+      "PREDEFINE": 150,
+      "Metro_Code": 4,
+      "Contract_Name_He": "חדרה-גוש דן",
+      "Contract_Name_En": "Hadera, Tel Aviv-Yaffo",
+      "Contract_Name_Ar": "الخضيرة, غوش دان",
+      "Contract_Name_Ru": "ХадераТель-Авив-Яффо"
+    },
+    {
+      "PREDEFINE": 150,
+      "Metro_Code": 32,
+      "Contract_Name_He": "חדרה-גוש דן",
+      "Contract_Name_En": "Hadera, Tel Aviv-Yaffo",
+      "Contract_Name_Ar": "الخضيرة, غوش دان",
+      "Contract_Name_Ru": "ХадераТель-Авив-Яффо"
+    },
+    {
+      "PREDEFINE": 151,
+      "Metro_Code": 2,
+      "Contract_Name_He": "אשקלון ק.גת וגוש דן",
+      "Contract_Name_En": "Ashkelon, Kiryat Gat, Tel Aviv-Yaffo",
+      "Contract_Name_Ar": "أشكلون, كريات چات, غوش دان",
+      "Contract_Name_Ru": "Ашкелон Кирьят-ГатТель-Авив"
+    },
+    {
+      "PREDEFINE": 151,
+      "Metro_Code": 4,
+      "Contract_Name_He": "אשקלון ק.גת וגוש דן",
+      "Contract_Name_En": "Ashkelon, Kiryat Gat, Tel Aviv-Yaffo",
+      "Contract_Name_Ar": "أشكلون, كريات چات, غوش دان",
+      "Contract_Name_Ru": "Ашкелон Кирьят-ГатТель-Авив"
+    },
+    {
+      "PREDEFINE": 151,
+      "Metro_Code": 512,
+      "Contract_Name_He": "אשקלון ק.גת וגוש דן",
+      "Contract_Name_En": "Ashkelon, Kiryat Gat, Tel Aviv-Yaffo",
+      "Contract_Name_Ar": "أشكلون, كريات چات, غوش دان",
+      "Contract_Name_Ru": "Ашкелон Кирьят-ГатТель-Авив"
+    },
+    {
+      "PREDEFINE": 152,
+      "Metro_Code": 4,
+      "Contract_Name_He": "השרון",
+      "Contract_Name_En": "The Sharon",
+      "Contract_Name_Ar": "هشارون",
+      "Contract_Name_Ru": "Шарон"
+    },
+    {
+      "PREDEFINE": 153,
+      "Metro_Code": 4,
+      "Contract_Name_He": "ראש העין שוהם",
+      "Contract_Name_En": "Rosh HaAyin Shoham",
+      "Contract_Name_Ar": "روش هعاين - شوهام",
+      "Contract_Name_Ru": "Рош Хааин Шохам"
+    },
+    {
+      "PREDEFINE": 154,
+      "Metro_Code": 4,
+      "Contract_Name_He": "רחובות",
+      "Contract_Name_En": "Rehovot",
+      "Contract_Name_Ar": "رحوفوت",
+      "Contract_Name_Ru": "Реховот"
+    },
+    {
+      "PREDEFINE": 155,
+      "Metro_Code": 4,
+      "Contract_Name_He": "נתניה",
+      "Contract_Name_En": "Netanya",
+      "Contract_Name_Ar": "نتانيا",
+      "Contract_Name_Ru": "Нетания"
+    },
+    {
+      "PREDEFINE": 171,
+      "Metro_Code": 128,
+      "Contract_Name_He": "ב\"ש",
+      "Contract_Name_En": "Be'er Sheva",
+      "Contract_Name_Ar": "بئر السبع",
+      "Contract_Name_Ru": "с окрестностями"
+    },
+    {
+      "PREDEFINE": 172,
+      "Metro_Code": 128,
+      "Contract_Name_He": "ב\"ש מורחב",
+      "Contract_Name_En": "Be'er Sheva Extended",
+      "Contract_Name_Ar": "بئر السبع موسع",
+      "Contract_Name_Ru": "расширенный"
+    },
+    {
+      "PREDEFINE": 173,
+      "Metro_Code": 128,
+      "Contract_Name_He": "ב\"ש+מערב ונגב",
+      "Contract_Name_En": "Be'er Sheva, Western Negev",
+      "Contract_Name_Ar": "بئر السبع وغرب النقب",
+      "Contract_Name_Ru": "Беер-Шева и западный Негев"
+    },
+    {
+      "PREDEFINE": 174,
+      "Metro_Code": 128,
+      "Contract_Name_He": "ב\"ש+דרום מזרח",
+      "Contract_Name_En": "Be'er Sheva, South East",
+      "Contract_Name_Ar": "بئر السبع وجنوب شرق",
+      "Contract_Name_Ru": "и юго-восток"
+    },
+    {
+      "PREDEFINE": 175,
+      "Metro_Code": 128,
+      "Contract_Name_He": "אזור מערב ונגב",
+      "Contract_Name_En": "West Area and Negev",
+      "Contract_Name_Ar": "منطقة الغرب والنقب",
+      "Contract_Name_Ru": "Западный район и Негев"
+    },
+    {
+      "PREDEFINE": 176,
+      "Metro_Code": 128,
+      "Contract_Name_He": "להבים מערב ונגב",
+      "Contract_Name_En": "Lehavim, West and Negev",
+      "Contract_Name_Ar": "لهفيم، غرب والنقب",
+      "Contract_Name_Ru": "Лехавим, западный район и Негев"
+    },
+    {
+      "PREDEFINE": 177,
+      "Metro_Code": 128,
+      "Contract_Name_He": "מטרופולין ב\"ש מלא",
+      "Contract_Name_En": "The Whole Metropolitan Area",
+      "Contract_Name_Ar": "المتروبولين كاملاً",
+      "Contract_Name_Ru": "Беер-Шева с окрестностями"
+    },
+    {
+      "PREDEFINE": 179,
+      "Metro_Code": 128,
+      "Contract_Name_He": "אשקלון ק.גת וב\"ש",
+      "Contract_Name_En": "Ashkelon, Kiryat Gat, Be'er Sheva",
+      "Contract_Name_Ar": "أشكلون, كريات چات, بئر السبع",
+      "Contract_Name_Ru": "Ашкелон и Беер-Шева Кирьят-Гат"
+    },
+    {
+      "PREDEFINE": 179,
+      "Metro_Code": 512,
+      "Contract_Name_He": "אשקלון ק.גת וב\"ש",
+      "Contract_Name_En": "Ashkelon, Kiryat Gat, Be'er Sheva",
+      "Contract_Name_Ar": "أشكلون, كريات چات, بئر السبع",
+      "Contract_Name_Ru": "Ашкелон и Беер-Шева Кирьят-Гат"
+    },
+    {
+      "PREDEFINE": 183,
+      "Metro_Code": 128,
+      "Contract_Name_He": "נתיבות שדרות",
+      "Contract_Name_En": "Netivot, Sderot",
+      "Contract_Name_Ar": "سديروت، نتيفوت",
+      "Contract_Name_Ru": "Сдерот и Нетивот"
+    },
+    {
+      "PREDEFINE": 365,
+      "Metro_Code": 1,
+      "Contract_Name_He": "עפולה, בית שאן, דרום רמת הגולן וכנרת",
+      "Contract_Name_En": "Afula and Beit She'an",
+      "Contract_Name_Ar": "العفولة، بيت شآن، جنوب هضبة الجولان وطبريا",
+      "Contract_Name_Ru": "Афула и Бейт Шеан"
+    },
+    {
+      "PREDEFINE": 366,
+      "Metro_Code": 1,
+      "Contract_Name_He": "עפולה, בית שאן, ואדי ערה, חדרה",
+      "Contract_Name_En": "Afula Beit She'an and Hadera",
+      "Contract_Name_Ar": "العفولة، بيت شآن، وادي عارة، الخضيرة",
+      "Contract_Name_Ru": "Афула, Бейт Шеан и Хадера"
+    },
+    {
+      "PREDEFINE": 366,
+      "Metro_Code": 32,
+      "Contract_Name_He": "עפולה, בית שאן, ואדי ערה, חדרה",
+      "Contract_Name_En": "Afula Beit She'an and Hadera",
+      "Contract_Name_Ar": "العفولة، بيت شآن، وادي عارة، الخضيرة",
+      "Contract_Name_Ru": "Афула, Бейт Шеан и Хадера"
+    },
+    {
+      "PREDEFINE": 367,
+      "Metro_Code": 1,
+      "Contract_Name_He": "עפולה, זכרון יעקב, כרמיאל, נצרת",
+      "Contract_Name_En": "Afula and Karmiel",
+      "Contract_Name_Ar": "العفولة، زخرون يعقوب، كرميئيل، الناصرة",
+      "Contract_Name_Ru": "Афула и Кармиэль"
+    },
+    {
+      "PREDEFINE": 367,
+      "Metro_Code": 8,
+      "Contract_Name_He": "עפולה, זכרון יעקב, כרמיאל, נצרת",
+      "Contract_Name_En": "Afula and Karmiel",
+      "Contract_Name_Ar": "العفولة، زخرون يعقوب، كرميئيل، الناصرة",
+      "Contract_Name_Ru": "Афула и Кармиэль"
+    },
+    {
+      "PREDEFINE": 368,
+      "Metro_Code": 8,
+      "Contract_Name_He": "נהריה, כרמיאל, נצרת, גליל מזרחי, כנרת וגולן",
+      "Contract_Name_En": "Nahariyya and Karmiel",
+      "Contract_Name_Ar": "نهاريا، كرميئيل، الناصرة، الجليل الشرقي، طبري",
+      "Contract_Name_Ru": "Нагария и Кармиэль"
+    },
+    {
+      "PREDEFINE": 369,
+      "Metro_Code": 8,
+      "Contract_Name_He": "ואדי ערה, חדרה, נצרת זכרון יעקב",
+      "Contract_Name_En": "Migdal Ha'emek and Hadera",
+      "Contract_Name_Ar": "وادي عارة، الخضيرة، الناصرة، زخرون يعقوب",
+      "Contract_Name_Ru": "Мигдаль ха-Эмек и Хадера"
+    },
+    {
+      "PREDEFINE": 369,
+      "Metro_Code": 32,
+      "Contract_Name_He": "ואדי ערה, חדרה, נצרת זכרון יעקב",
+      "Contract_Name_En": "Migdal Ha'emek and Hadera",
+      "Contract_Name_Ar": "وادي عارة، الخضيرة، الناصرة، زخرون يعقوب",
+      "Contract_Name_Ru": "Мигдаль ха-Эмек и Хадера"
+    },
+    {
+      "PREDEFINE": 370,
+      "Metro_Code": 128,
+      "Contract_Name_He": "אשקלון, נתיבות ושדרות",
+      "Contract_Name_En": "Ashkelon Netivot and Sderot",
+      "Contract_Name_Ar": "أشكلون، نتيفوت، وسديروت",
+      "Contract_Name_Ru": "Ашкелон, Нетивот и Сдерот"
+    },
+    {
+      "PREDEFINE": 370,
+      "Metro_Code": 512,
+      "Contract_Name_He": "אשקלון, נתיבות ושדרות",
+      "Contract_Name_En": "Ashkelon Netivot and Sderot",
+      "Contract_Name_Ar": "أشكلون، نتيفوت، وسديروت",
+      "Contract_Name_Ru": "Ашкелон, Нетивот и Сдерот"
+    },
+    {
+      "PREDEFINE": 371,
+      "Metro_Code": 128,
+      "Contract_Name_He": "קרית גת, נתיבות, שדרות ועתניאל",
+      "Contract_Name_En": "Kiryat Gat Netivot and Sderot",
+      "Contract_Name_Ar": "كريات غات، نتيفوت، سديروت وعتنيال",
+      "Contract_Name_Ru": "Кирьят Гат, Нетивот и Сдерот"
+    },
+    {
+      "PREDEFINE": 371,
+      "Metro_Code": 512,
+      "Contract_Name_He": "קרית גת, נתיבות, שדרות ועתניאל",
+      "Contract_Name_En": "Kiryat Gat Netivot and Sderot",
+      "Contract_Name_Ar": "كريات غات، نتيفوت، سديروت وعتنيال",
+      "Contract_Name_Ru": "Кирьят Гат, Нетивот и Сдерот"
+    },
+    {
+      "PREDEFINE": 373,
+      "Metro_Code": 4,
+      "Contract_Name_He": "אשקלון, קריית גת, גדרה ואשדוד",
+      "Contract_Name_En": "Ashkelon Kiryat Gat and Ashdod",
+      "Contract_Name_Ar": "أشكلون، كريات غات، جديرا وأشدود",
+      "Contract_Name_Ru": "Ашкелон, Кирьят Гат и Ашдод"
+    },
+    {
+      "PREDEFINE": 373,
+      "Metro_Code": 512,
+      "Contract_Name_He": "אשקלון, קריית גת, גדרה ואשדוד",
+      "Contract_Name_En": "Ashkelon Kiryat Gat and Ashdod",
+      "Contract_Name_Ar": "أشكلون، كريات غات، جديرا وأشدود",
+      "Contract_Name_Ru": "Ашкелон, Кирьят Гат и Ашдод"
+    },
+    {
+      "PREDEFINE": 374,
+      "Metro_Code": 2,
+      "Contract_Name_He": "קריית גת, בית שמש",
+      "Contract_Name_En": "Kiryat Gat and Bet Shemesh",
+      "Contract_Name_Ar": "كريات غات وبيت شيمش",
+      "Contract_Name_Ru": "Гат и Бейт Шемеш"
+    },
+    {
+      "PREDEFINE": 374,
+      "Metro_Code": 512,
+      "Contract_Name_He": "קריית גת, בית שמש",
+      "Contract_Name_En": "Kiryat Gat and Bet Shemesh",
+      "Contract_Name_Ar": "كريات غات وبيت شيمش",
+      "Contract_Name_Ru": "Гат и Бейт Шемеш"
+    },
+    {
+      "PREDEFINE": 375,
+      "Metro_Code": 0,
+      "Contract_Name_He": "באר שבע וירושלים",
+      "Contract_Name_En": "Beer Sheva and Jeruslaem",
+      "Contract_Name_Ar": "بئر السبع والقدس",
+      "Contract_Name_Ru": "Беэр-Шева и Иерусалим"
+    },
+    {
+      "PREDEFINE": 499,
+      "Metro_Code": 1,
+      "Contract_Name_He": "עמקים-חיפה",
+      "Contract_Name_En": "Valleys - Haifa",
+      "Contract_Name_Ar": "حيفا - الوديان",
+      "Contract_Name_Ru": "Хайфская долина"
+    },
+    {
+      "PREDEFINE": 499,
+      "Metro_Code": 8,
+      "Contract_Name_He": "עמקים-חיפה",
+      "Contract_Name_En": "Valleys - Haifa",
+      "Contract_Name_Ar": "حيفا - الوديان",
+      "Contract_Name_Ru": "Хайфская долина"
+    },
+    {
+      "PREDEFINE": 499,
+      "Metro_Code": 32,
+      "Contract_Name_He": "עמקים-חיפה",
+      "Contract_Name_En": "Valleys - Haifa",
+      "Contract_Name_Ar": "حيفا - الوديان",
+      "Contract_Name_Ru": "Хайфская долина"
+    },
+    {
+      "PREDEFINE": 500,
+      "Metro_Code": 8,
+      "Contract_Name_He": "סובב חיפה",
+      "Contract_Name_En": "Haifa, Outskirts",
+      "Contract_Name_Ar": "التفافي حيفا",
+      "Contract_Name_Ru": "Хайфа Окрестности"
+    },
+    {
+      "PREDEFINE": 501,
+      "Metro_Code": 8,
+      "Contract_Name_He": "סובב חיפה מורחב",
+      "Contract_Name_En": "Haifa, Outskirts Extended",
+      "Contract_Name_Ar": "التفافي حيفا موسع",
+      "Contract_Name_Ru": "Хайфа иОкрестности"
+    },
+    {
+      "PREDEFINE": 502,
+      "Metro_Code": 8,
+      "Contract_Name_He": "סובב חיפה צפוני",
+      "Contract_Name_En": "Haifa, Outskirts North",
+      "Contract_Name_Ar": "التفافي حيفا الشمالي",
+      "Contract_Name_Ru": "Хайфа и Северная область"
+    },
+    {
+      "PREDEFINE": 503,
+      "Metro_Code": 8,
+      "Contract_Name_He": "סובב חיפה דרומי",
+      "Contract_Name_En": "Haifa, Outskirts South",
+      "Contract_Name_Ar": "التفافي حيفا الجنوبي",
+      "Contract_Name_Ru": "Хайфа и южные области"
+    },
+    {
+      "PREDEFINE": 504,
+      "Metro_Code": 8,
+      "Contract_Name_He": "מטרופולין צפוני",
+      "Contract_Name_En": "Northern Metropolitan Area",
+      "Contract_Name_Ar": "المتروبولين الشمالي",
+      "Contract_Name_Ru": "Север страны"
+    },
+    {
+      "PREDEFINE": 505,
+      "Metro_Code": 8,
+      "Contract_Name_He": "מטרופולין דרומי",
+      "Contract_Name_En": "Southern Metropolitan Area",
+      "Contract_Name_Ar": "المتروبولين الجنوبي",
+      "Contract_Name_Ru": "Южная область"
+    },
+    {
+      "PREDEFINE": 506,
+      "Metro_Code": 8,
+      "Contract_Name_He": "מטרופולין מזרחי",
+      "Contract_Name_En": "Eastern Metropolitan Area",
+      "Contract_Name_Ar": "المتروبولين الشرقي",
+      "Contract_Name_Ru": "Восточная область"
+    },
+    {
+      "PREDEFINE": 560,
+      "Metro_Code": 8,
+      "Contract_Name_He": "עכו אחיהוד",
+      "Contract_Name_En": "Akko",
+      "Contract_Name_Ar": "عكا",
+      "Contract_Name_Ru": "Акко"
+    },
+    {
+      "PREDEFINE": 561,
+      "Metro_Code": 8,
+      "Contract_Name_He": "יוקנעם טבעון",
+      "Contract_Name_En": "Yokneam - Tiv'on",
+      "Contract_Name_Ar": "يوكنعام وطبعون",
+      "Contract_Name_Ru": "Йокнеам Тивон"
+    },
+    {
+      "PREDEFINE": 671,
+      "Metro_Code": 2,
+      "Contract_Name_He": "סובב י\"ם",
+      "Contract_Name_En": "Jerusalem, Outskirts",
+      "Contract_Name_Ar": "التفافي القدس",
+      "Contract_Name_Ru": "Иерусалим, Окрестности"
+    },
+    {
+      "PREDEFINE": 672,
+      "Metro_Code": 2,
+      "Contract_Name_He": "י\"ם מורחב",
+      "Contract_Name_En": "Jerusalem Extended",
+      "Contract_Name_Ar": "القدس موسع",
+      "Contract_Name_Ru": "Иерусалимский расширенный"
+    },
+    {
+      "PREDEFINE": 673,
+      "Metro_Code": 2,
+      "Contract_Name_He": "סובב י\"ם+מערב",
+      "Contract_Name_En": "Jerusalem, Outskirts, West",
+      "Contract_Name_Ar": "التفافي القدس وغربها",
+      "Contract_Name_Ru": "Иерусалим, Окрестности, Запад"
+    },
+    {
+      "PREDEFINE": 673,
+      "Metro_Code": 4,
+      "Contract_Name_He": "סובב י\"ם+מערב",
+      "Contract_Name_En": "Jerusalem, Outskirts, West",
+      "Contract_Name_Ar": "التفافي القدس وغربها",
+      "Contract_Name_Ru": "Иерусалим, Окрестности, Запад"
+    },
+    {
+      "PREDEFINE": 674,
+      "Metro_Code": 2,
+      "Contract_Name_He": "סובב י\"ם+מזרח",
+      "Contract_Name_En": "Jerusalem, Outskirts, East",
+      "Contract_Name_Ar": "التفافي القدس وشرقها",
+      "Contract_Name_Ru": "Иерусалим Окрестности Восток"
+    },
+    {
+      "PREDEFINE": 675,
+      "Metro_Code": 2,
+      "Contract_Name_He": "מטרופולין מערבי",
+      "Contract_Name_En": "Western Metropolitan Area",
+      "Contract_Name_Ar": "المتروبولين الغربي",
+      "Contract_Name_Ru": "Западная столица"
+    },
+    {
+      "PREDEFINE": 675,
+      "Metro_Code": 4,
+      "Contract_Name_He": "מטרופולין מערבי",
+      "Contract_Name_En": "Western Metropolitan Area",
+      "Contract_Name_Ar": "المتروبولين الغربي",
+      "Contract_Name_Ru": "Западная столица"
+    },
+    {
+      "PREDEFINE": 677,
+      "Metro_Code": 2,
+      "Contract_Name_He": "מטרופולין י\"ם מלא",
+      "Contract_Name_En": "The Whole Metropolitan Area",
+      "Contract_Name_Ar": "المتروبولين كاملاً",
+      "Contract_Name_Ru": "Вся столичная область"
+    },
+    {
+      "PREDEFINE": 677,
+      "Metro_Code": 4,
+      "Contract_Name_He": "מטרופולין י\"ם מלא",
+      "Contract_Name_En": "The Whole Metropolitan Area",
+      "Contract_Name_Ar": "المتروبولين كاملاً",
+      "Contract_Name_Ru": "Вся столичная область"
+    },
+    {
+      "PREDEFINE": 697,
+      "Metro_Code": 2,
+      "Contract_Name_He": "חבל מודיעין",
+      "Contract_Name_En": "Modi'in Region",
+      "Contract_Name_Ar": "حيفيل موديعين",
+      "Contract_Name_Ru": "Регион Модиин"
+    },
+    {
+      "PREDEFINE": 697,
+      "Metro_Code": 4,
+      "Contract_Name_He": "חבל מודיעין",
+      "Contract_Name_En": "Modi'in Region",
+      "Contract_Name_Ar": "حيفيل موديعين",
+      "Contract_Name_Ru": "Регион Модиин"
+    },
+    {
+      "PREDEFINE": 741,
+      "Metro_Code": 8,
+      "Contract_Name_He": "גליל מזרחי וחיפה",
+      "Contract_Name_En": "East Galil+Haifa",
+      "Contract_Name_Ar": "لجليل الشرقي وحيفا",
+      "Contract_Name_Ru": "Восточная Галилея иХайфа"
+    },
+    {
+      "PREDEFINE": 745,
+      "Metro_Code": 1,
+      "Contract_Name_He": "בית שאן-עפולה",
+      "Contract_Name_En": "Beit She'an-Afula",
+      "Contract_Name_Ar": "بيت شيعان العفولة",
+      "Contract_Name_Ru": "Бейт-Шеан-Афула"
+    },
+    {
+      "PREDEFINE": 748,
+      "Metro_Code": 32,
+      "Contract_Name_He": "חדרה",
+      "Contract_Name_En": "Hadera",
+      "Contract_Name_Ar": "الخضيرة",
+      "Contract_Name_Ru": "Хадера"
+    },
+    {
+      "PREDEFINE": 751,
+      "Metro_Code": 512,
+      "Contract_Name_He": "אשקלון וקרית מלאכי",
+      "Contract_Name_En": "Ashkelon and Kiryat Malachi",
+      "Contract_Name_Ar": "أشكلون كريات مالاشي",
+      "Contract_Name_Ru": "Ашкелон и Кирьят-Малахи"
+    },
+    {
+      "PREDEFINE": 752,
+      "Metro_Code": 512,
+      "Contract_Name_He": "קריית גת ואשקלון",
+      "Contract_Name_En": "Ashkelon, Kiryat Gat",
+      "Contract_Name_Ar": "كريات چات وأشكلون",
+      "Contract_Name_Ru": "Ашкелон, Кирьят-Гат"
+    },
+    {
+      "PREDEFINE": 755,
+      "Metro_Code": 32,
+      "Contract_Name_He": "חריש-חדרה",
+      "Contract_Name_En": "Hadera-Harish",
+      "Contract_Name_Ar": "الخضيرة وخريش",
+      "Contract_Name_Ru": "Хадера-Хариш"
+    },
+    {
+      "PREDEFINE": 917,
+      "Metro_Code": 0,
+      "Contract_Name_He": "גוש דן ובאר שבע",
+      "Contract_Name_En": "Tel Aviv and Beer Sheva",
+      "Contract_Name_Ar": "مدمج جنوبي + مركزي",
+      "Contract_Name_Ru": "Дан и Беэр-Шева"
+    },
+    {
+      "PREDEFINE": 919,
+      "Metro_Code": 0,
+      "Contract_Name_He": "גוש דן וחיפה",
+      "Contract_Name_En": "Tel Aviv and Haifa",
+      "Contract_Name_Ar": "مدمج حيفا جنوب + غوش دان",
+      "Contract_Name_Ru": "Дан и Хайфа"
+    },
+    {
+      "PREDEFINE": 923,
+      "Metro_Code": 0,
+      "Contract_Name_He": "משולב בית שמש+מרכזי",
+      "Contract_Name_En": "Tel Aviv and Beit Shemesh",
+      "Contract_Name_Ar": "مدمج بيت شيمش + مركزي",
+      "Contract_Name_Ru": "шемеш+центр страны"
+    },
+    {
+      "PREDEFINE": 924,
+      "Metro_Code": 0,
+      "Contract_Name_He": "גוש דן וירושלים",
+      "Contract_Name_En": "Tel Aviv and Jeruslaem",
+      "Contract_Name_Ar": "مدمج محور القدس + مركزي",
+      "Contract_Name_Ru": "Дан и Иерусалим"
+    },
+    {
+      "PREDEFINE": 950,
+      "Metro_Code": 0,
+      "Contract_Name_He": "משולב ארצי",
+      "Contract_Name_En": "All Areas",
+      "Contract_Name_Ar": "مدمج قطري",
+      "Contract_Name_Ru": "Комбинированный по всей стране"
+    },
+    {
+      "PREDEFINE": 962,
+      "Metro_Code": 0,
+      "Contract_Name_He": "משולב שרון+בנימינה\\חדרה",
+      "Contract_Name_En": "Sharon and Binyamina \\ Hadera",
+      "Contract_Name_Ar": "مدمج الشارون + بنيامينا / الخضيرة",
+      "Contract_Name_Ru": "Ха-Шарон + Биньямина / Хадера"
+    },
+    {
+      "PREDEFINE": 964,
+      "Metro_Code": 0,
+      "Contract_Name_He": "משולב חיפה-נתניה",
+      "Contract_Name_En": "Haifa and Natanya",
+      "Contract_Name_Ar": "حيفا - نتانيا",
+      "Contract_Name_Ru": "Хайфа - Нетания"
+    }
+  ],
+  "Metropolines": [
+    {
+      "Metro_Code": 0,
+      "Metro_Name_He": "משולבים בין מטרופולינים",
+      "Metro_Name_En": "Combined pass - Interregional",
+      "Metro_Name_Ar": "مدمجه بين اكثر من متروبولين",
+      "Metro_Name_Ru": "комбинированный билет"
+    },
+    {
+      "Metro_Code": 1,
+      "Metro_Name_He": "העמק",
+      "Metro_Name_En": "Valley",
+      "Metro_Name_Ar": "على الصعيد الوطني",
+      "Metro_Name_Ru": "общенациональный"
+    },
+    {
+      "Metro_Code": 2,
+      "Metro_Name_He": "ירושלים",
+      "Metro_Name_En": "Jerusalem",
+      "Metro_Name_Ar": "متروبولينالقدس",
+      "Metro_Name_Ru": "иерусалим"
+    },
+    {
+      "Metro_Code": 4,
+      "Metro_Name_He": "גוש דן",
+      "Metro_Name_En": "Gush Dan",
+      "Metro_Name_Ar": "متروبولين غوش دان",
+      "Metro_Name_Ru": "Тель-Авив"
+    },
+    {
+      "Metro_Code": 8,
+      "Metro_Name_He": "חיפה",
+      "Metro_Name_En": "Haifa",
+      "Metro_Name_Ar": "متروبولي نحيفا",
+      "Metro_Name_Ru": "хайфа"
+    },
+    {
+      "Metro_Code": 32,
+      "Metro_Name_He": "חדרה וחריש",
+      "Metro_Name_En": "Hadera",
+      "Metro_Name_Ar": "الخضيرة",
+      "Metro_Name_Ru": "Хадера"
+    },
+    {
+      "Metro_Code": 100,
+      "Metro_Name_He": "רכבת בלבד",
+      "Metro_Name_En": "Train only",
+      "Metro_Name_Ar": "قطار فقط",
+      "Metro_Name_Ru": "проезд только в поезде"
+    },
+    {
+      "Metro_Code": 128,
+      "Metro_Name_He": "באר שבע",
+      "Metro_Name_En": "Beer Sheva",
+      "Metro_Name_Ar": "متروبولين بئر السبع",
+      "Metro_Name_Ru": "Беер-Шева"
+    },
+    {
+      "Metro_Code": 512,
+      "Metro_Name_He": "ק.גת ואשקלון",
+      "Metro_Name_En": "Kiryat Gat and Ashkelon",
+      "Metro_Name_Ar": "كريات جات أشكلون",
+      "Metro_Name_Ru": "Кирьят-Гат Ашкелон"
+    }
+  ],
+  "Profiles": {
+    "0": {
+      "SmartCard_Profile_Code": 0,
+      "Magnetic_Profile_Code": 1,
+      "ETT_CODES": "21;20;41;11;10;15;72",
+      "Adult_ETT_CODES": "",
+      "Profile_Name": {
+        "HE": "כללי",
+        "EN": "Ordinary",
+        "RU": "общий",
+        "AR": "عام"
+      },
+      "ReformaRelevance": true,
+      "RailRelevance": true,
+      "RavKavRelevance": true
+    },
+    "3": {
+      "SmartCard_Profile_Code": 3,
+      "Magnetic_Profile_Code": 21,
+      "ETT_CODES": "10;15",
+      "Adult_ETT_CODES": "21;20;41;11;72",
+      "Profile_Name": {
+        "HE": "סטודנט מורחב",
+        "EN": "Student",
+        "RU": "с.расш-ный",
+        "AR": "برنامج موسع للطالب"
+      },
+      "ReformaRelevance": true,
+      "RailRelevance": true,
+      "RavKavRelevance": true
+    },
+    "4": {
+      "SmartCard_Profile_Code": 4,
+      "Magnetic_Profile_Code": 8,
+      "ETT_CODES": "21;20;10;74",
+      "Adult_ETT_CODES": "",
+      "Profile_Name": {
+        "HE": "אזרח ותיק",
+        "EN": "Senior citizen",
+        "RU": "пенсионер",
+        "AR": "مواطن قديم"
+      },
+      "ReformaRelevance": true,
+      "RailRelevance": true,
+      "RavKavRelevance": true
+    },
+    "5": {
+      "SmartCard_Profile_Code": 5,
+      "Magnetic_Profile_Code": 7,
+      "ETT_CODES": "71",
+      "Adult_ETT_CODES": "21;20;41;11;10;15;72",
+      "Profile_Name": {
+        "HE": "נכה",
+        "EN": "Disabled",
+        "RU": "нетрудоспособный",
+        "AR": "ذوي الاحتياجات الخاصة"
+      },
+      "ReformaRelevance": false,
+      "RailRelevance": true,
+      "RavKavRelevance": true
+    },
+    "19": {
+      "SmartCard_Profile_Code": 19,
+      "Magnetic_Profile_Code": 2,
+      "ETT_CODES": "15",
+      "Adult_ETT_CODES": "21;20;41;11;10;72",
+      "Profile_Name": {
+        "HE": "סטודנט רגיל",
+        "EN": "Student",
+        "RU": "студент",
+        "AR": "طالب عادي"
+      },
+      "ReformaRelevance": false,
+      "RailRelevance": true,
+      "RavKavRelevance": true
+    },
+    "33": {
+      "SmartCard_Profile_Code": 33,
+      "Magnetic_Profile_Code": 5,
+      "ETT_CODES": "71",
+      "Adult_ETT_CODES": "21;20;41;11;10;15;72",
+      "Profile_Name": {
+        "HE": "נוער עד גיל 18",
+        "EN": "Youth under 18",
+        "RU": "молодежный",
+        "AR": "شبيبة حتى جيل 18"
+      },
+      "ReformaRelevance": false,
+      "RailRelevance": true,
+      "RavKavRelevance": true
+    },
+    "40": {
+      "SmartCard_Profile_Code": 40,
+      "Magnetic_Profile_Code": 31,
+      "ETT_CODES": "71",
+      "Adult_ETT_CODES": "21;20;41;11;10;15;72",
+      "Profile_Name": {
+        "HE": "זכאי ביטוח לאומי",
+        "EN": "Discount ride",
+        "RU": "Битуах Леуми",
+        "AR": "مُستحق للتخفيض"
+      },
+      "ReformaRelevance": false,
+      "RailRelevance": true,
+      "RavKavRelevance": true
+    }
+  },
+  "ContractTypes": {
+    "10": {
+      "Code": "10",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": false,
+      "ETT_Name": {
+        "HE": "כוון אחד",
+        "EN": "single ride",
+        "RU": "билет в одном направлении",
+        "AR": "اتجاه واحد"
+      }
+    },
+    "15": {
+      "Code": "15",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": false,
+      "ETT_Name": {
+        "HE": "כרטיסיה 12",
+        "EN": "MultiRide 12",
+        "RU": "проездной на 12 проездов",
+        "AR": "علامة التبويب 12"
+      }
+    },
+    "17": {
+      "Code": "17",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": false,
+      "ETT_Name": {
+        "HE": "כרטיסיה 20",
+        "EN": "MultiRide 20",
+        "RU": "проездной на 20 проездов",
+        "AR": "علامة التبويب 20"
+      }
+    },
+    "20": {
+      "Code": "20",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": true,
+      "ETT_Name": {
+        "HE": "גמיש 30",
+        "EN": "30 days pass",
+        "RU": "Гибкая 30",
+        "AR": "مرن ٣٠"
+      }
+    },
+    "21": {
+      "Code": "21",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": true,
+      "ETT_Name": {
+        "HE": "גמיש 07",
+        "EN": "7 days pass",
+        "RU": "Гибкий 07",
+        "AR": "مرن ٧"
+      }
+    },
+    "22": {
+      "Code": "22",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": true,
+      "ETT_Name": {
+        "HE": "חופשי יומי",
+        "EN": "1 day",
+        "RU": "однодневный проездной",
+        "AR": "يومي"
+      }
+    },
+    "23": {
+      "Code": "23",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": true,
+      "ETT_Name": {
+        "HE": "חופשי סמסטר ב",
+        "EN": "Semester B",
+        "RU": "2-й Семестр",
+        "AR": "الفصل ب"
+      }
+    },
+    "24": {
+      "Code": "24",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": true,
+      "ETT_Name": {
+        "HE": "חופשי סמסטר א",
+        "EN": "Semester A",
+        "RU": "1-й Семестр",
+        "AR": "الفصل أ"
+      }
+    },
+    "25": {
+      "Code": "25",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": true,
+      "ETT_Name": {
+        "HE": "חופשי שנתי",
+        "EN": "Free yearly",
+        "RU": "Бесплатный ежегодный",
+        "AR": "مجانا السنوي"
+      }
+    },
+    "60": {
+      "Code": "60",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": true,
+      "ETT_Name": {
+        "HE": "ערך צבור 1",
+        "EN": "Stored Credit 30",
+        "RU": "накопительный проездной 30",
+        "AR": "قيمة إجمالية٣٠"
+      }
+    },
+    "61": {
+      "Code": "61",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": true,
+      "ETT_Name": {
+        "HE": "ערך צבור 2",
+        "EN": "Stored Credit 50",
+        "RU": "накопительный проездной 50",
+        "AR": "قيمة إجمالية٥٠"
+      }
+    },
+    "62": {
+      "Code": "62",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": true,
+      "ETT_Name": {
+        "HE": "ערך צבור 3",
+        "EN": "Stored Credit 100",
+        "RU": "накопительный проездной 100",
+        "AR": "قيمة إجمالية١٠٠"
+      }
+    },
+    "63": {
+      "Code": "63",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": true,
+      "ETT_Name": {
+        "HE": "ערך צבור 4",
+        "EN": "Stored Credit 150",
+        "RU": "накопительный проездной 150",
+        "AR": "قيمة إجمالية١٥٠"
+      }
+    },
+    "64": {
+      "Code": "64",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": true,
+      "ETT_Name": {
+        "HE": "ערך צבור 5",
+        "EN": "Stored Credit 200",
+        "RU": "накопительный проездной 200",
+        "AR": "قيمة إجمالية٢٠٠"
+      }
+    },
+    "65": {
+      "Code": "65",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": true,
+      "ETT_Name": {
+        "HE": "ערך צבור 6",
+        "EN": "Stored Credit",
+        "RU": "накопительный проездной",
+        "AR": "قيمة إجمالية٣٠"
+      }
+    },
+    "71": {
+      "Code": "71",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": false,
+      "ETT_Name": {
+        "HE": "כרטיסיה 6",
+        "EN": "MultiRide 6",
+        "RU": "проездной на 6 проездов",
+        "AR": "علامة التبويب 6"
+      }
+    },
+    "74": {
+      "Code": "74",
+      "ContractCodeMagneatic": 0,
+      "ReformaRelevance": false,
+      "ETT_Name": {
+        "HE": "צבר 12 כרטיסים",
+        "EN": "MultiRide 12",
+        "RU": "проездной на 12 проездов",
+        "AR": "علامة التبويب 12"
+      }
+    }
+  },
+  "Station": [
+    {
+      "Key": "3700",
+      "Value": {
+        "Code": "3700",
+        "HE": "ת\"א סבידור מרכז",
+        "EN": "Tel Aviv-Center",
+        "AR": "تل ابيب – ساڤيدور المركز",
+        "RU": "Тель-Авив-Центр",
+        "ID": "1"
+      }
+    },
+    {
+      "Key": "3500",
+      "Value": {
+        "Code": "3500",
+        "HE": "הרצלייה",
+        "EN": "Hertsliyya",
+        "AR": "هرتسليا",
+        "RU": "Герцлия",
+        "ID": "2"
+      }
+    },
+    {
+      "Key": "3400",
+      "Value": {
+        "Code": "3400",
+        "HE": "בית-יהושע",
+        "EN": "Bet Yehoshu''a",
+        "AR": "بيت يهوشوع",
+        "RU": "Бейт-Иеошуа ",
+        "ID": "3"
+      }
+    },
+    {
+      "Key": "3300",
+      "Value": {
+        "Code": "3300",
+        "HE": "נתניה",
+        "EN": "Netanya",
+        "AR": "نتانيا",
+        "RU": "Нетания",
+        "ID": "4"
+      }
+    },
+    {
+      "Key": "3100",
+      "Value": {
+        "Code": "3100",
+        "HE": "חדרה מערב",
+        "EN": "Hadera- West",
+        "AR": "الخضيرة - غرب",
+        "RU": "Хадера - Маарав",
+        "ID": "5"
+      }
+    },
+    {
+      "Key": "2800",
+      "Value": {
+        "Code": "2800",
+        "HE": "בנימינה",
+        "EN": "Binyamina",
+        "AR": "بنيامينا",
+        "RU": "Биньямина",
+        "ID": "6"
+      }
+    },
+    {
+      "Key": "2820",
+      "Value": {
+        "Code": "2820",
+        "HE": "קיסריה פרדס-חנה",
+        "EN": "Caesarea P,h",
+        "AR": "قيساريا - بارديس حنا",
+        "RU": "Кейсария - Пардес-Хана",
+        "ID": "7"
+      }
+    },
+    {
+      "Key": "2500",
+      "Value": {
+        "Code": "2500",
+        "HE": "עתלית",
+        "EN": "Atlit",
+        "AR": "عتليت",
+        "RU": "Атлит",
+        "ID": "8"
+      }
+    },
+    {
+      "Key": "2200",
+      "Value": {
+        "Code": "2200",
+        "HE": "חיפה בת-גלים",
+        "EN": "Haifa-Bat Gallim",
+        "AR": "حيفا - بات چاليم",
+        "RU": "Хайфа - Бат-Галим",
+        "ID": "9"
+      }
+    },
+    {
+      "Key": "1300",
+      "Value": {
+        "Code": "1300",
+        "HE": "חוצות המפרץ",
+        "EN": "Hutsot HaMifrats",
+        "AR": "حوتسوت همفراتس",
+        "RU": "Хуцот ха-Мифрац ",
+        "ID": "10"
+      }
+    },
+    {
+      "Key": "700",
+      "Value": {
+        "Code": "700",
+        "HE": "קריית חיים",
+        "EN": "Kiryat Hayyim",
+        "AR": "كريات حاييم",
+        "RU": "Кирьят-Хаим",
+        "ID": "11"
+      }
+    },
+    {
+      "Key": "1400",
+      "Value": {
+        "Code": "1400",
+        "HE": "קריית מוצקין",
+        "EN": "Kiryat Motzkin",
+        "AR": "كريات موتسكين",
+        "RU": "Кирьят-Моцкин",
+        "ID": "12"
+      }
+    },
+    {
+      "Key": "1500",
+      "Value": {
+        "Code": "1500",
+        "HE": "עכו",
+        "EN": "Acre",
+        "AR": "عكا",
+        "RU": "Акко ",
+        "ID": "13"
+      }
+    },
+    {
+      "Key": "2300",
+      "Value": {
+        "Code": "2300",
+        "HE": "חיפה בחוף-הכרמל",
+        "EN": "Haifa H.HaKarmell",
+        "AR": "حيفا - شاطئ الكرمل",
+        "RU": "Хайфа Хоф-а-Кармель",
+        "ID": "14"
+      }
+    },
+    {
+      "Key": "8700",
+      "Value": {
+        "Code": "8700",
+        "HE": "כפר-סבא נורדאו",
+        "EN": "Kfar Sava-Nordau",
+        "AR": "كفار سابا - نورداو",
+        "RU": "Кфар Саба Нордау",
+        "ID": "15"
+      }
+    },
+    {
+      "Key": "1600",
+      "Value": {
+        "Code": "1600",
+        "HE": "נהרייה",
+        "EN": "Nahariyya",
+        "AR": "نهاريا",
+        "RU": "Наария",
+        "ID": "16"
+      }
+    },
+    {
+      "Key": "6500",
+      "Value": {
+        "Code": "6500",
+        "HE": "ירושלים - גן החיות התנכי",
+        "EN": "Jerusalem-Biblical Zoo",
+        "AR": "اورشليم – القدس – حديقة الحيوانات",
+        "RU": "Иерусалим зоопарк",
+        "ID": "17"
+      }
+    },
+    {
+      "Key": "6300",
+      "Value": {
+        "Code": "6300",
+        "HE": "בית-שמש",
+        "EN": "Bet Shemesh",
+        "AR": "بيت شيمش",
+        "RU": "Бейт Шемеш",
+        "ID": "18"
+      }
+    },
+    {
+      "Key": "7000",
+      "Value": {
+        "Code": "7000",
+        "HE": "קריית-גת",
+        "EN": "Kiryat Gat",
+        "AR": "كريات چات",
+        "RU": "Кирьят-Гат ",
+        "ID": "19"
+      }
+    },
+    {
+      "Key": "5000",
+      "Value": {
+        "Code": "5000",
+        "HE": "לוד",
+        "EN": "Lod",
+        "AR": "اللد",
+        "RU": "Лод",
+        "ID": "20"
+      }
+    },
+    {
+      "Key": "7300",
+      "Value": {
+        "Code": "7300",
+        "HE": "באר-שבע צפון",
+        "EN": "B.S. North",
+        "AR": "بئر السبع - شمال/الجامعة",
+        "RU": "Беер-Шева север",
+        "ID": "21"
+      }
+    },
+    {
+      "Key": "4800",
+      "Value": {
+        "Code": "4800",
+        "HE": "כפר חב\"ד",
+        "EN": "Kfar Habbad",
+        "AR": "كفار حباد",
+        "RU": "Кфар ХАБАД",
+        "ID": "22"
+      }
+    },
+    {
+      "Key": "4600",
+      "Value": {
+        "Code": "4600",
+        "HE": "ת\"א השלום",
+        "EN": "Tel Aviv - HaShalom",
+        "AR": "تل أبيب - السلام",
+        "RU": "Тель-Авив а-Шалом",
+        "ID": "23"
+      }
+    },
+    {
+      "Key": "2100",
+      "Value": {
+        "Code": "2100",
+        "HE": "חיפה מרכז השמונה",
+        "EN": "Haifa Center",
+        "AR": "حيفا المركز - هشمونا",
+        "RU": "Хайфа Центр",
+        "ID": "25"
+      }
+    },
+    {
+      "Key": "5010",
+      "Value": {
+        "Code": "5010",
+        "HE": "רמלה",
+        "EN": "Ramla",
+        "AR": "الرملة",
+        "RU": "Рамле",
+        "ID": "26"
+      }
+    },
+    {
+      "Key": "8800",
+      "Value": {
+        "Code": "8800",
+        "HE": "ראש-העין צפון",
+        "EN": "Rosh Ha''ayin North",
+        "AR": "روش هعاين - شمال",
+        "RU": "Рош-Айн север",
+        "ID": "27"
+      }
+    },
+    {
+      "Key": "5300",
+      "Value": {
+        "Code": "5300",
+        "HE": "באר-יעקב",
+        "EN": "Be''er Ya''akov",
+        "AR": "بئير يعكوف",
+        "RU": "Беер-Яаков",
+        "ID": "28"
+      }
+    },
+    {
+      "Key": "5200",
+      "Value": {
+        "Code": "5200",
+        "HE": "רחובות",
+        "EN": "Rehovot",
+        "AR": "رحوڤوت",
+        "RU": "Реховот",
+        "ID": "29"
+      }
+    },
+    {
+      "Key": "5400",
+      "Value": {
+        "Code": "5400",
+        "HE": "יבנה מזרח",
+        "EN": "Yavne East",
+        "AR": "ياڤنه - شرق",
+        "RU": "Явне",
+        "ID": "30"
+      }
+    },
+    {
+      "Key": "9100",
+      "Value": {
+        "Code": "9100",
+        "HE": "ראשל\"צ הראשונים",
+        "EN": "R.HaRishonim",
+        "AR": "ريشون لتسيون - هريشونيم",
+        "RU": "Ришон ле-Цион а-Ришоним ",
+        "ID": "31"
+      }
+    },
+    {
+      "Key": "5800",
+      "Value": {
+        "Code": "5800",
+        "HE": "אשדוד עד-הלום",
+        "EN": "Ashdod- Ad Halom",
+        "AR": "أشدود - عاد هلوم",
+        "RU": "Ашдод Ад-алом",
+        "ID": "32"
+      }
+    },
+    {
+      "Key": "4250",
+      "Value": {
+        "Code": "4250",
+        "HE": "פתח-תקווה סגולה",
+        "EN": "Petah Tikva-Sgulla",
+        "AR": "بيتح تكڤا - سچوله",
+        "RU": "Петах-Тиква Сгула",
+        "ID": "34"
+      }
+    },
+    {
+      "Key": "4100",
+      "Value": {
+        "Code": "4100",
+        "HE": "בני ברק",
+        "EN": "Bne Brak",
+        "AR": "بني براك",
+        "RU": "Бней-Брак",
+        "ID": "35"
+      }
+    },
+    {
+      "Key": "3600",
+      "Value": {
+        "Code": "3600",
+        "HE": "ת\"א אוניברסיטה",
+        "EN": "Tel Aviv University T\"U",
+        "AR": "تل أبيب - الجامعة",
+        "RU": "Тель-Авив Университет",
+        "ID": "36"
+      }
+    },
+    {
+      "Key": "7320",
+      "Value": {
+        "Code": "7320",
+        "HE": "באר-שבע מרכז",
+        "EN": "Beer Sheva- Center",
+        "AR": "بئر السبع - المركز",
+        "RU": "Беэр-Шева- Центр",
+        "ID": "37"
+      }
+    },
+    {
+      "Key": "1220",
+      "Value": {
+        "Code": "1220",
+        "HE": "מרכזית המפרץ",
+        "EN": "HaMifrats Central Station",
+        "AR": "همفراتس المركزية",
+        "RU": "Центральная станция Ха-Мифрац",
+        "ID": "38"
+      }
+    },
+    {
+      "Key": "4620",
+      "Value": {
+        "Code": "4620",
+        "HE": "ת\"א ההגנה",
+        "EN": "Tel Aviv HaHagana",
+        "AR": "تل أبيب - ههچناه",
+        "RU": "Тель-Авив - ха-Хагана",
+        "ID": "39"
+      }
+    },
+    {
+      "Key": "8600",
+      "Value": {
+        "Code": "8600",
+        "HE": "נתב\"ג",
+        "EN": "Ben Gurion Airport",
+        "AR": "مطار بن چوريون",
+        "RU": "Бен-Гурион Аэропорт",
+        "ID": "40"
+      }
+    },
+    {
+      "Key": "6700",
+      "Value": {
+        "Code": "6700",
+        "HE": "ירושלים - מלחה",
+        "EN": "Jerusalem - Malha",
+        "AR": "اورشليم – المالحة",
+        "RU": "Иерусалим - Мальха",
+        "ID": "41"
+      }
+    },
+    {
+      "Key": "5900",
+      "Value": {
+        "Code": "5900",
+        "HE": "אשקלון",
+        "EN": "Ashkelon",
+        "AR": "أشكلون",
+        "RU": "Ашкелон ",
+        "ID": "42"
+      }
+    },
+    {
+      "Key": "7500",
+      "Value": {
+        "Code": "7500",
+        "HE": "דימונה",
+        "EN": "Dimona",
+        "AR": "ديمونا",
+        "RU": "Димона",
+        "ID": "43"
+      }
+    },
+    {
+      "Key": "9200",
+      "Value": {
+        "Code": "9200",
+        "HE": "הוד-השרון סוקולוב",
+        "EN": "H.Sharon Sokolov",
+        "AR": "هود هشارون - سوكولوڤ",
+        "RU": "Од Ашарон - Соколов",
+        "ID": "44"
+      }
+    },
+    {
+      "Key": "4170",
+      "Value": {
+        "Code": "4170",
+        "HE": "קריית אריה",
+        "EN": "P.T. Kiryat Arye",
+        "AR": "بيتح تكڤا - كريات أريه",
+        "RU": "Петах Тиква – Кирьят Арье",
+        "ID": "45"
+      }
+    },
+    {
+      "Key": "5150",
+      "Value": {
+        "Code": "5150",
+        "HE": "לוד גני-אביב",
+        "EN": "Lod-Ganne Aviv",
+        "AR": "اللد - چاني أڤيڤ",
+        "RU": "Лод - Ганей Авив",
+        "ID": "46"
+      }
+    },
+    {
+      "Key": "8550",
+      "Value": {
+        "Code": "8550",
+        "HE": "להבים רהט",
+        "EN": "Lehavim-Rahat",
+        "AR": "لهاڤيم - رهط",
+        "RU": "Леавим - Рахат",
+        "ID": "47"
+      }
+    },
+    {
+      "Key": "300",
+      "Value": {
+        "Code": "300",
+        "HE": "פאתי מודיעין",
+        "EN": "Pa'ate Modi'in",
+        "AR": "بأتي موديعين",
+        "RU": "Паатей Модиин",
+        "ID": "48"
+      }
+    },
+    {
+      "Key": "400",
+      "Value": {
+        "Code": "400",
+        "HE": "מודיעין מרכז",
+        "EN": "Modi'in-Center M\"C",
+        "AR": "موديعين - المركز",
+        "RU": "Модиин центр ",
+        "ID": "49"
+      }
+    },
+    {
+      "Key": "4640",
+      "Value": {
+        "Code": "4640",
+        "HE": "צומת חולון",
+        "EN": "Holon Junction",
+        "AR": "مفترق حولون",
+        "RU": "Холон - Развязка Холон",
+        "ID": "50"
+      }
+    },
+    {
+      "Key": "4660",
+      "Value": {
+        "Code": "4660",
+        "HE": "חולון וולפסון",
+        "EN": "Holon Wolfson",
+        "AR": "حولون - ڤولفسون",
+        "RU": "Холон - Вольфсон",
+        "ID": "51"
+      }
+    },
+    {
+      "Key": "4680",
+      "Value": {
+        "Code": "4680",
+        "HE": "בת-ים יוספטל",
+        "EN": "Bat Yam-Yoseftal",
+        "AR": "بات يام - يوسفطال",
+        "RU": "Бат Ям - Йосеф Таль",
+        "ID": "52"
+      }
+    },
+    {
+      "Key": "4690",
+      "Value": {
+        "Code": "4690",
+        "HE": "בת-ים קוממיות",
+        "EN": "Bat.Y-Komemiyyut",
+        "AR": "بات يام - كوميميوت",
+        "RU": "Бат Ям - Комемьют",
+        "ID": "53"
+      }
+    },
+    {
+      "Key": "9800",
+      "Value": {
+        "Code": "9800",
+        "HE": "ראשל\"צ משה-דיין",
+        "EN": "R.Moshe-Dayan",
+        "AR": "ريشون لتسيون -موشي ديان",
+        "RU": "Ришон-Ле-Цион Моше Даян",
+        "ID": "54"
+      }
+    },
+    {
+      "Key": "9000",
+      "Value": {
+        "Code": "9000",
+        "HE": "יבנה מערב",
+        "EN": "Yavne West",
+        "AR": "ياڤني - غرب",
+        "RU": "Явне запад",
+        "ID": "55"
+      }
+    },
+    {
+      "Key": "9600",
+      "Value": {
+        "Code": "9600",
+        "HE": "שדרות",
+        "EN": "Sderot",
+        "AR": "سديروت",
+        "RU": "Сдерот",
+        "ID": "56"
+      }
+    },
+    {
+      "Key": "9650",
+      "Value": {
+        "Code": "9650",
+        "HE": "נתיבות",
+        "EN": "Netivot",
+        "AR": "نتيفوت",
+        "RU": "Нетивот",
+        "ID": "57"
+      }
+    },
+    {
+      "Key": "9700",
+      "Value": {
+        "Code": "9700",
+        "HE": "אופקים",
+        "EN": "Ofakim",
+        "AR": "أوفاكيم",
+        "RU": "Офаким",
+        "ID": "58"
+      }
+    },
+    {
+      "Key": "3310",
+      "Value": {
+        "Code": "3310",
+        "HE": "נתניה ספיר",
+        "EN": "NETANYA-SAPIR",
+        "AR": "نتانيا - سبير",
+        "RU": "Нетания - Сапфи́р",
+        "ID": "59"
+      }
+    },
+    {
+      "Key": "1240",
+      "Value": {
+        "Code": "1240",
+        "HE": "יקנעם כפר-יהושע",
+        "EN": "YOKNE'AM-KFAR YEHOSHU'A",
+        "AR": "يوكنعام – كفار يهوشوع",
+        "RU": "Йокнеам - Кфар-Иегошуа",
+        "ID": "60"
+      }
+    },
+    {
+      "Key": "1250",
+      "Value": {
+        "Code": "1250",
+        "HE": "מגדל-העמק כפר-ברוך",
+        "EN": "MIGDAL HA'EMEK-KFAR BARUKH",
+        "AR": "مجدال هعيمك – كفار باروخ",
+        "RU": "Мигдаль-ха-Эмек - Кфар Барух",
+        "ID": "61"
+      }
+    },
+    {
+      "Key": "1260",
+      "Value": {
+        "Code": "1260",
+        "HE": "עפולה ר.איתן",
+        "EN": "Afula R.Eitan",
+        "AR": "العفولة ر. ايتان",
+        "RU": "Афула Р. Эйтан",
+        "ID": "62"
+      }
+    },
+    {
+      "Key": "1280",
+      "Value": {
+        "Code": "1280",
+        "HE": "בית שאן",
+        "EN": "BEIT SHE'AN",
+        "AR": "بيت شآن",
+        "RU": "Бейт-Шеан",
+        "ID": "63"
+      }
+    },
+    {
+      "Key": "1820",
+      "Value": {
+        "Code": "1820",
+        "HE": "אחיהוד",
+        "EN": "Ahihud",
+        "AR": "أحيهود",
+        "RU": "Ахиуд",
+        "ID": "64"
+      }
+    },
+    {
+      "Key": "1840",
+      "Value": {
+        "Code": "1840",
+        "HE": "כרמיאל",
+        "EN": "Karmiel",
+        "AR": "كرمئيل",
+        "RU": "Кармиэль",
+        "ID": "65"
+      }
+    },
+    {
+      "Key": "2940",
+      "Value": {
+        "Code": "2940",
+        "HE": "רעננה מערב",
+        "EN": "Ra'anana West",
+        "AR": "رعنانا ويست",
+        "RU": "Раанана-Вест",
+        "ID": "66"
+      }
+    },
+    {
+      "Key": "2960",
+      "Value": {
+        "Code": "2960",
+        "HE": "רעננה דרום",
+        "EN": "Ra'anana South",
+        "AR": "رعنانا الجنوبية",
+        "RU": "Раанана Южный",
+        "ID": "67"
+      }
+    },
+    {
+      "Key": "6150",
+      "Value": {
+        "Code": "6150",
+        "HE": "קרית מלאכי - יואב",
+        "EN": "Kiryat Malakhi – Yoav",
+        "AR": "كريات ملاخي – يوآڤ",
+        "RU": "Кирьят Малахи-Йоав",
+        "ID": "68"
+      }
+    },
+    {
+      "Key": "680",
+      "Value": {
+        "Code": "680",
+        "HE": "ירושלים - יצחק נבון",
+        "EN": "Jerusalem - Yitzhak Navon",
+        "AR": "أورشليم – يتسحاق ناڤون",
+        "RU": "Иерусалим - Ицхак Навон",
+        "ID": "69"
+      }
+    },
+    {
+      "Key": "6900",
+      "Value": {
+        "Code": "6900",
+        "HE": "מזכרת בתיה",
+        "EN": "Mazkeret Batya",
+        "AR": "مزكيرت باتيا",
+        "RU": "Мазкерет Батья",
+        "ID": "70"
+      }
+    }
+  ],
+  "ContentLabels": {
+    "TripType_Title": {
+      "Code": "TripType_Title",
+      "HE": "סוג נסיעה",
+      "EN": "Travel type",
+      "AR": "نوع السفر",
+      "RU": "Тип поездки"
+    },
+    "TripType_SubTitle": {
+      "Code": "TripType_SubTitle",
+      "HE": "בחר אחד",
+      "EN": "Select one",
+      "AR": "إختر واحد",
+      "RU": "Выбрать один"
+    },
+    "MozaYaad": {
+      "Code": "MozaYaad",
+      "HE": "מוצא יעד",
+      "EN": "Origin Destination",
+      "AR": "انطلاق هدف",
+      "RU": "Найти пункт назначения"
+    },
+    "MetropolineSelectTitle": {
+      "Code": "MetropolineSelectTitle",
+      "HE": "מטרופולין",
+      "EN": "Metropolitan\r\n",
+      "AR": "متروبوليتان",
+      "RU": "Мегаполис"
+    },
+    "MetropolineAreaSelect_Select": {
+      "Code": "MetropolineAreaSelect_Select",
+      "HE": "בחר אזור",
+      "EN": "Select area",
+      "AR": "إختر منطقة",
+      "RU": "Выбрать район"
+    },
+    "MetropolineSelect_Select": {
+      "Code": "MetropolineSelect_Select",
+      "HE": "בחר מטרופולין",
+      "EN": "Select Metropolis",
+      "AR": "إختر متروبولين",
+      "RU": "Выбрать мегаполис"
+    },
+    "XMetropolineSelectTitle": {
+      "Code": "XMetropolineSelectTitle",
+      "HE": "בין מטרופולינים",
+      "EN": "Between metropolises",
+      "AR": "ما بين المتروبولينات",
+      "RU": "Между мегаполисами"
+    },
+    "MetropolineSelect_Origin": {
+      "Code": "MetropolineSelect_Origin",
+      "HE": "בחר מטרופולין אחד",
+      "EN": "Select first Metropolis",
+      "AR": "إختر متروبولين واحد",
+      "RU": "Выбрать один мегаполис"
+    },
+    "MetropolineSelect_Dest": {
+      "Code": "MetropolineSelect_Dest",
+      "HE": "בחר מטרופולין שני",
+      "EN": "Select second Metropolis",
+      "AR": "إختر المتروبولين الثاني",
+      "RU": "Выбрать второй мегаполис"
+    },
+    "ContractTypeSelect_Title": {
+      "Code": "ContractTypeSelect_Title",
+      "HE": "סוג כרטיס",
+      "EN": "Ticket Type",
+      "AR": "نوع البطاقة",
+      "RU": "Вид билета"
+    },
+    "ContractTypeSelect_SubTitle": {
+      "Code": "ContractTypeSelect_SubTitle",
+      "HE": "בחר אחד או יותר",
+      "EN": "Select one or more",
+      "AR": "إختر واحد أو أكثر",
+      "RU": "Выбрать один или более"
+    },
+    "ProfileTypeSelect_Title": {
+      "Code": "ProfileTypeSelect_Title",
+      "HE": "סוג נוסע",
+      "EN": "Passenger type",
+      "AR": "نوع المسافر",
+      "RU": "Тип пассажира"
+    },
+    "ProfileTypeSelect_SubTitle": {
+      "Code": "ProfileTypeSelect_SubTitle",
+      "HE": "בחר אחד ",
+      "EN": "Select one\r\n",
+      "AR": "إختر واحد أو أكثر",
+      "RU": "Выбрать один"
+    },
+    "Response_Title_RailOnly_Format": {
+      "Code": "Response_Title_RailOnly_Format",
+      "HE": "תחנת {O} – תחנת {D}.",
+      "EN": "{O} station - {D} station.",
+      "AR": "محطة {O} – محطة {D}.",
+      "RU": "Станция {O} - Станция {D}"
+    },
+    "Response_Title_Contract_Format": {
+      "Code": "Response_Title_Contract_Format",
+      "HE": "נמצאו {X} סוגי נסיעה מתאימים:",
+      "EN": "{X} Suitable travel contracts were found:",
+      "AR": "توجد {X} عقود سفر ملائمة:",
+      "RU": "Найдены {X} подходящих тарифных плана(ов)"
+    },
+    "Response_Title_Metro_Format": {
+      "Code": "Response_Title_Metro_Format",
+      "HE": "מטרופולין {O}",
+      "EN": "{O} Metropolis",
+      "AR": "متروبوليتان {O}",
+      "RU": "Мегаполис {O}"
+    },
+    "Response_Title_XMetro_Format": {
+      "Code": "Response_Title_XMetro_Format",
+      "HE": "מטרופולין {O} – מטרופולין {D}.",
+      "EN": "{O} Metropolis - {D} Metropolis.",
+      "AR": "متروبوليتان {O} – متروبوليتان {D}.",
+      "RU": "Мегаполис {O} - Мегаполис {D}"
+    },
+    "Result_Title_XMetropoline": {
+      "Code": "Result_Title_XMetropoline",
+      "HE": "נסיעה משולבת בין מטרופולינים",
+      "EN": "Integrated travel between metropolises",
+      "AR": "سفرة مدمجة ما بين المتروبولينين",
+      "RU": "Комбинированный проезд между двух мегаполисов"
+    },
+    "Result_Title_Metropoline": {
+      "Code": "Result_Title_Metropoline",
+      "HE": "נסיעה משולבת בתוך מטרופולין",
+      "EN": "Integrated travel within metropolis",
+      "AR": "سفرة مدمجة داخل المتروبولين",
+      "RU": "Комбинированный проезд внутри мегаполиса"
+    },
+    "Result_Title_RailOnly": {
+      "Code": "Result_Title_RailOnly",
+      "HE": "נסיעה ברכבת בלבד",
+      "EN": "Travel by train only",
+      "AR": "سفر بالقطار فقط",
+      "RU": "Только поезд"
+    },
+    "Result_Desc_XMetropoline": {
+      "Code": "Result_Desc_XMetropoline",
+      "HE": "כולל נסיעה בכל אמצעי התחבורה הציבורית במטרופולינים הנבחרים ונסיעה בינהם.",
+      "EN": "including travel by all public transportation means within the selected metropolises and between them.",
+      "AR": "يشمل السفر بكل وسائل المواصلات العامة في المتروبولينات المختارة .",
+      "RU": "Включая проезд на всех видах общественного транспорта в выбранных мегаполисах и проезд между ними."
+    },
+    "Result_Desc_Metropoline": {
+      "Code": "Result_Desc_Metropoline",
+      "HE": "כולל אמצעי התחבורה הציבוריים בתוך המטרופולין",
+      "EN": "including all public transportation means within the metropolis",
+      "AR": "يشمل وسائل المواصلات العامة داخل المتروبولين",
+      "RU": "Включая общественный транспорт внутри метрополии"
+    },
+    "Result_Desc_RailOnly": {
+      "Code": "Result_Desc_RailOnly",
+      "HE": "כולל נסיעה ברכבת בלבד",
+      "EN": "Including travel by train only",
+      "AR": "يشمل السفر بالقطار فقط",
+      "RU": "Включая только проезд на поезде"
+    },
+    "Label_Predefine": {
+      "Code": "Label_Predefine",
+      "HE": "קוד שיתוף",
+      "EN": "Sharing Code",
+      "AR": "رمز المشاركة",
+      "RU": "Код обмена"
+    },
+    "Col_Title_ContractType": {
+      "Code": "Col_Title_ContractType",
+      "HE": "סוג מנוי",
+      "EN": "Subscription type",
+      "AR": "نوع الاشتراك",
+      "RU": "Тип проездного"
+    },
+    "Col_Title_TicketType": {
+      "Code": "Col_Title_TicketType",
+      "HE": "סוג הכרטיס",
+      "EN": "Ticket Type",
+      "AR": "نوع البطاقة",
+      "RU": "Вид билета"
+    },
+    "Col_Title_ProfileType": {
+      "Code": "Col_Title_ProfileType",
+      "HE": "סוג נוסע",
+      "EN": "Passenger type",
+      "AR": "نوع المسافر",
+      "RU": "Тип пассажира"
+    },
+    "Col_Title_Price": {
+      "Code": "Col_Title_Price",
+      "HE": "מחיר",
+      "EN": "Price",
+      "AR": "سعر",
+      "RU": "Цена"
+    },
+    "Label_Currecy": {
+      "Code": "Label_Currecy",
+      "HE": "₪ ",
+      "EN": "NIS",
+      "AR": "شاقل",
+      "RU": "Шек."
+    },
+    "Label_Buy": {
+      "Code": "Label_Buy",
+      "HE": "לרכישה",
+      "EN": "Purchase",
+      "AR": "للشراء",
+      "RU": "Купить"
+    },
+    "CrossMetro": {
+      "Code": "CrossMetro",
+      "HE": "משולב בין מטרופולינים",
+      "EN": "Integrated inter-metropolitan ",
+      "AR": "مدمج ما بين المتروبولينات",
+      "RU": "Комбинированный между мегаполисами"
+    },
+    "RailOnly": {
+      "Code": "RailOnly",
+      "HE": "רכבת בלבד",
+      "EN": "Train only",
+      "AR": "قطار فقط",
+      "RU": "Только поезд"
+    },
+    "MetropolineOnly": {
+      "Code": "MetropolineOnly",
+      "HE": "משולב בתוך מטרופולין",
+      "EN": "Integrated metropolitan ",
+      "AR": "مدمج متروبولين",
+      "RU": "Комбинированный по мегаполису"
+    },
+    "CrossMetroAndInMetro": {
+      "Code": "CrossMetroAndInMetro",
+      "HE": "משולב",
+      "EN": "Integrated",
+      "AR": "مدمج",
+      "RU": "Комбинированный"
+    },
+    "Area_Select": {
+      "Code": "Area_Select",
+      "HE": "בחר אזור",
+      "EN": "Select area",
+      "AR": "اختيار منطقة",
+      "RU": "Выбрать район"
+    },
+    "FindYouContract": {
+      "Code": "FindYouContract",
+      "HE": "מצא כרטיס נסיעה מתאים לך",
+      "EN": "Find travel ticket compatible for you",
+      "AR": "إيجاد بطاقة السفر الأكثر ملاءمة لك",
+      "RU": "Найти подходящий билет"
+    },
+    "NewSearch": {
+      "Code": "NewSearch",
+      "HE": "חיפוש מחדש",
+      "EN": "Search Again",
+      "AR": "بحث جديد",
+      "RU": "Новый поиск"
+    },
+    "ShowTaarifBtn": {
+      "Code": "ShowTaarifBtn",
+      "HE": "הצג חישוב תעריפי נסיעה",
+      "EN": "Display my fare \r\n",
+      "AR": "أظهر احتساب كلفات السفر",
+      "RU": "Показать стоимость"
+    },
+    "SearchByCode": {
+      "Code": "SearchByCode",
+      "HE": "חפש לפי קוד",
+      "EN": "Search by code",
+      "AR": "إبحث بحسب الرمز البريدي",
+      "RU": "Поиск по коду"
+    },
+    "SearchByCode_WaterMark": {
+      "Code": "SearchByCode_WaterMark",
+      "HE": "הזן קוד שיתוף",
+      "EN": "Enter sharing code ",
+      "AR": "أدخِل رمز المشاركة",
+      "RU": "Введите код обмена"
+    },
+    "SearchByCode_Button": {
+      "Code": "SearchByCode_Button",
+      "HE": "הצג",
+      "EN": "Display",
+      "AR": "إبراز",
+      "RU": "Показать"
+    },
+    "MetropolineContractSelect_Select": {
+      "Code": "MetropolineContractSelect_Select",
+      "HE": "בחר חוזה",
+      "EN": "Choose Ticket Option",
+      "AR": "اختيار العقد",
+      "RU": "Выберите контракт"
+    }
+  },
+  "Version": {
+    "VersionId": 69,
+    "ContentVersionId": null,
+    "RestrictionsLastUpdateDate": "2021-01-14T15:44:35.123",
+    "FileVersion": 210
+  }
+}
