@@ -1,0 +1,1 @@
+cat $1 | sed 1,1d | csvtool col 1 - | sort
