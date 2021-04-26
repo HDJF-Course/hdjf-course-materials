@@ -16,7 +16,7 @@ TMP4=$(mktemp)
 
 
 # get raw stories csv
-./get_graphql_rsp.sh  | ./get_stories_json.sh | ./get_stories.sh >$TMP1
+./get_graphql_rsp.sh  | ./get_stories_json.sh | ./get_stories.sh | ./remove_dups.py | csvtool cols 2- - >$TMP1
 
 # get raw reactions csv
 ./get_reactions.sh $TMP1 >$TMP2
