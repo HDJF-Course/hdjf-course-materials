@@ -1,0 +1,68 @@
+4620 Tel Aviv HaHagana          Busy         48
+5400 Yavne East                 Bridge, Taxi 52
+2960 Ra'anana South                          68
+2940 Ra'anana West              Sat "Hi"     60
+1600 Nahariyya                  North!       77
+1500 Acrae                                    93
+1840 Karmiel                                 23
+1820 Ahihud                                  90
+1400 Kiryat Motzkin                          25
+2200 Haifa-Bat Gallim                        9 
+700  Kiryat Hayyim                           7 
+2100 Haifa Center                            89
+1300 Hutsot HaMifrats                        39
+1220 HaMifrats Central Station               87
+2300 Haifa H.HaKarmell                       69
+2500 Atlit                                   14
+1240 YOKNE'AM-KFAR YEHOSHU'A                 39
+1250 MIGDAL HA'EMEK-KFAR BARUKH              24
+1260 Afula R.Eitan                           61
+1280 BEIT SHE'AN                             42
+2800 Binyamina                               66
+2820 Caesarea P,h                            90
+3100 Hadera- West                            47
+3300 Netanya                                 76
+3310 NETANYA-SAPIR                           8 
+3400 Bet Yehoshu''a                          62
+9200 H.Sharon Sokolov                        57
+8700 Kfar Sava-Nordau                        43
+3500 Hertsliyya                              67
+8800 Rosh Ha''ayin North                     51
+4250 Petah Tikva-Sgulla                      50
+4170 P.T. Kiryat Arye                        53
+3600 Tel Aviv University T"U                 48
+4100 Bne Brak                                4 
+3700 Tel Aviv-Center                         26
+4600 Tel Aviv - HaShalom                     29
+4640 Holon Junction                          29
+4660 Holon Wolfson                           56
+4680 Bat Yam-Yoseftal                        15
+4690 Bat.Y-Komemiyyut                        43
+8600 Ben Gurion Airport                      70
+4800 Kfar Habbad                             98
+9800 R.Moshe-Dayan                           26
+5150 Lod-Ganne Aviv                          7 
+9100 R.HaRishonim                            80
+5000 Lod                                     33
+5300 Be''er Ya''akov                         11
+5010 Ramla                                   73
+5200 Rehovot                                 30
+400  Modi'in-Center M"C                      29
+300  Pa'ate Modi'in                          15
+9000 Yavne West                              13
+6900 Mazkeret Batya                          57
+680  Jerusalem - Yitzhak Navon               17
+5800 Ashdod- Ad Halom                        73
+6300 Bet Shemesh                             96
+6150 Kiryat Malakhi – Yoav                   53
+6700 Jerusalem - Malha                       44
+6500 Jerusalem-Biblical Zoo                  75
+5900 Ashkelon                                35
+7000 Kiryat Gat                              52
+9600 Sderot                                  58
+9650 Netivot                                 20
+8550 Lehavim-Rahat                           25
+9700 Ofakim                                  85
+7300 B.S. North                              10
+7320 Beer Sheva- Center                      4 
+7500 Dimona                                  23

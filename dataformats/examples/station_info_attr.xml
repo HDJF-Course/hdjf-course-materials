@@ -1,0 +1,411 @@
+<?xml version="1.0"?>
+<Stations>
+ <Station lat="31.7881805" long="35.2024441">
+  <Code>4620</Code>
+  <NameEnglish>Tel Aviv HaHagana</NameEnglish>
+  <Notes>Busy</Notes>
+  <Reports>61</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>5400</Code>
+  <NameEnglish>Yavne East</NameEnglish>
+  <Notes>Bridge, Taxi</Notes>
+  <Reports>85</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>2960</Code>
+  <NameEnglish>Ra&apos;anana South</NameEnglish>
+  <Notes></Notes>
+  <Reports>73</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>2940</Code>
+  <NameEnglish>Ra&apos;anana West</NameEnglish>
+  <Notes>Sat &quot;Hi&quot;</Notes>
+  <Reports>84</Reports>
+ </Station>
+ <Station lat="32.621368" long="35.294197">
+  <Code>1600</Code>
+  <NameEnglish>Nahariyya</NameEnglish>
+  <Notes>North!</Notes>
+  <Reports>90</Reports>
+ </Station>
+ <Station lat="32.621368" long="35.294197">
+  <Code>1500</Code>
+  <NameEnglish>Acre</NameEnglish>
+  <Notes></Notes>
+  <Reports>67</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>1840</Code>
+  <NameEnglish>Karmiel</NameEnglish>
+  <Notes></Notes>
+  <Reports>93</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>1820</Code>
+  <NameEnglish>Ahihud</NameEnglish>
+  <Notes></Notes>
+  <Reports>50</Reports>
+ </Station>
+ <Station lat="32.621368" long="35.294197">
+  <Code>1400</Code>
+  <NameEnglish>Kiryat Motzkin</NameEnglish>
+  <Notes></Notes>
+  <Reports>70</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>2200</Code>
+  <NameEnglish>Haifa-Bat Gallim</NameEnglish>
+  <Notes></Notes>
+  <Reports>23</Reports>
+ </Station>
+ <Station lat="#N/A" long="#N/A">
+  <Code>700</Code>
+  <NameEnglish>Kiryat Hayyim</NameEnglish>
+  <Notes></Notes>
+  <Reports>34</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>2100</Code>
+  <NameEnglish>Haifa Center</NameEnglish>
+  <Notes></Notes>
+  <Reports>74</Reports>
+ </Station>
+ <Station lat="32.621368" long="35.294197">
+  <Code>1300</Code>
+  <NameEnglish>Hutsot HaMifrats</NameEnglish>
+  <Notes></Notes>
+  <Reports>5</Reports>
+ </Station>
+ <Station lat="#N/A" long="#N/A">
+  <Code>1220</Code>
+  <NameEnglish>HaMifrats Central Station</NameEnglish>
+  <Notes></Notes>
+  <Reports>66</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>2300</Code>
+  <NameEnglish>Haifa H.HaKarmell</NameEnglish>
+  <Notes></Notes>
+  <Reports>10</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>2500</Code>
+  <NameEnglish>Atlit</NameEnglish>
+  <Notes></Notes>
+  <Reports>42</Reports>
+ </Station>
+ <Station lat="#N/A" long="#N/A">
+  <Code>1240</Code>
+  <NameEnglish>YOKNE&apos;AM-KFAR YEHOSHU&apos;A</NameEnglish>
+  <Notes></Notes>
+  <Reports>93</Reports>
+ </Station>
+ <Station lat="#N/A" long="#N/A">
+  <Code>1250</Code>
+  <NameEnglish>MIGDAL HA&apos;EMEK-KFAR BARUKH</NameEnglish>
+  <Notes></Notes>
+  <Reports>80</Reports>
+ </Station>
+ <Station lat="32.621368" long="35.294197">
+  <Code>1260</Code>
+  <NameEnglish>Afula R.Eitan</NameEnglish>
+  <Notes></Notes>
+  <Reports>14</Reports>
+ </Station>
+ <Station lat="32.621368" long="35.294197">
+  <Code>1280</Code>
+  <NameEnglish>BEIT SHE&apos;AN</NameEnglish>
+  <Notes></Notes>
+  <Reports>90</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>2800</Code>
+  <NameEnglish>Binyamina</NameEnglish>
+  <Notes></Notes>
+  <Reports>77</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>2820</Code>
+  <NameEnglish>Caesarea P,h</NameEnglish>
+  <Notes></Notes>
+  <Reports>88</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>3100</Code>
+  <NameEnglish>Hadera- West</NameEnglish>
+  <Notes></Notes>
+  <Reports>39</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>3300</Code>
+  <NameEnglish>Netanya</NameEnglish>
+  <Notes></Notes>
+  <Reports>72</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>3310</Code>
+  <NameEnglish>NETANYA-SAPIR</NameEnglish>
+  <Notes></Notes>
+  <Reports>89</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>3400</Code>
+  <NameEnglish>Bet Yehoshu&apos;&apos;a</NameEnglish>
+  <Notes></Notes>
+  <Reports>71</Reports>
+ </Station>
+ <Station lat="32.681534" long="35.124919">
+  <Code>9200</Code>
+  <NameEnglish>H.Sharon Sokolov</NameEnglish>
+  <Notes></Notes>
+  <Reports>88</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>8700</Code>
+  <NameEnglish>Kfar Sava-Nordau</NameEnglish>
+  <Notes></Notes>
+  <Reports>82</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>3500</Code>
+  <NameEnglish>Hertsliyya</NameEnglish>
+  <Notes></Notes>
+  <Reports>9</Reports>
+ </Station>
+ <Station lat="#N/A" long="#N/A">
+  <Code>8800</Code>
+  <NameEnglish>Rosh Ha&apos;&apos;ayin North</NameEnglish>
+  <Notes></Notes>
+  <Reports>79</Reports>
+ </Station>
+ <Station lat="31.7881805" long="35.2024441">
+  <Code>4250</Code>
+  <NameEnglish>Petah Tikva-Sgulla</NameEnglish>
+  <Notes></Notes>
+  <Reports>58</Reports>
+ </Station>
+ <Station lat="31.7881805" long="35.2024441">
+  <Code>4170</Code>
+  <NameEnglish>P.T. Kiryat Arye</NameEnglish>
+  <Notes></Notes>
+  <Reports>27</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>3600</Code>
+  <NameEnglish>Tel Aviv University T&quot;U</NameEnglish>
+  <Notes></Notes>
+  <Reports>44</Reports>
+ </Station>
+ <Station lat="31.7881805" long="35.2024441">
+  <Code>4100</Code>
+  <NameEnglish>Bne Brak</NameEnglish>
+  <Notes></Notes>
+  <Reports>76</Reports>
+ </Station>
+ <Station lat="32.8622708" long="35.1223181">
+  <Code>3700</Code>
+  <NameEnglish>Tel Aviv-Center</NameEnglish>
+  <Notes></Notes>
+  <Reports>8</Reports>
+ </Station>
+ <Station lat="31.7881805" long="35.2024441">
+  <Code>4600</Code>
+  <NameEnglish>Tel Aviv - HaShalom</NameEnglish>
+  <Notes></Notes>
+  <Reports>84</Reports>
+ </Station>
+ <Station lat="31.7881805" long="35.2024441">
+  <Code>4640</Code>
+  <NameEnglish>Holon Junction</NameEnglish>
+  <Notes></Notes>
+  <Reports>64</Reports>
+ </Station>
+ <Station lat="31.7881805" long="35.2024441">
+  <Code>4660</Code>
+  <NameEnglish>Holon Wolfson</NameEnglish>
+  <Notes></Notes>
+  <Reports>43</Reports>
+ </Station>
+ <Station lat="31.7881805" long="35.2024441">
+  <Code>4680</Code>
+  <NameEnglish>Bat Yam-Yoseftal</NameEnglish>
+  <Notes></Notes>
+  <Reports>94</Reports>
+ </Station>
+ <Station lat="31.7881805" long="35.2024441">
+  <Code>4690</Code>
+  <NameEnglish>Bat.Y-Komemiyyut</NameEnglish>
+  <Notes></Notes>
+  <Reports>50</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>8600</Code>
+  <NameEnglish>Ben Gurion Airport</NameEnglish>
+  <Notes></Notes>
+  <Reports>82</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>4800</Code>
+  <NameEnglish>Kfar Habbad</NameEnglish>
+  <Notes></Notes>
+  <Reports>11</Reports>
+ </Station>
+ <Station lat="32.681534" long="35.124919">
+  <Code>9800</Code>
+  <NameEnglish>R.Moshe-Dayan</NameEnglish>
+  <Notes></Notes>
+  <Reports>99</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>5150</Code>
+  <NameEnglish>Lod-Ganne Aviv</NameEnglish>
+  <Notes></Notes>
+  <Reports>66</Reports>
+ </Station>
+ <Station lat="32.681534" long="35.124919">
+  <Code>9100</Code>
+  <NameEnglish>R.HaRishonim</NameEnglish>
+  <Notes></Notes>
+  <Reports>64</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>5000</Code>
+  <NameEnglish>Lod</NameEnglish>
+  <Notes></Notes>
+  <Reports>45</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>5300</Code>
+  <NameEnglish>Be&apos;&apos;er Ya&apos;&apos;akov</NameEnglish>
+  <Notes></Notes>
+  <Reports>5</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>5010</Code>
+  <NameEnglish>Ramla</NameEnglish>
+  <Notes></Notes>
+  <Reports>5</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>5200</Code>
+  <NameEnglish>Rehovot</NameEnglish>
+  <Notes></Notes>
+  <Reports>97</Reports>
+ </Station>
+ <Station lat="#N/A" long="#N/A">
+  <Code>400</Code>
+  <NameEnglish>Modi&apos;in-Center M&quot;C</NameEnglish>
+  <Notes></Notes>
+  <Reports>51</Reports>
+ </Station>
+ <Station lat="#N/A" long="#N/A">
+  <Code>300</Code>
+  <NameEnglish>Pa&apos;ate Modi&apos;in</NameEnglish>
+  <Notes></Notes>
+  <Reports>83</Reports>
+ </Station>
+ <Station lat="32.681534" long="35.124919">
+  <Code>9000</Code>
+  <NameEnglish>Yavne West</NameEnglish>
+  <Notes></Notes>
+  <Reports>7</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>6900</Code>
+  <NameEnglish>Mazkeret Batya</NameEnglish>
+  <Notes></Notes>
+  <Reports>35</Reports>
+ </Station>
+ <Station lat="#N/A" long="#N/A">
+  <Code>680</Code>
+  <NameEnglish>Jerusalem - Yitzhak Navon</NameEnglish>
+  <Notes></Notes>
+  <Reports>12</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>5800</Code>
+  <NameEnglish>Ashdod- Ad Halom</NameEnglish>
+  <Notes></Notes>
+  <Reports>9</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>6300</Code>
+  <NameEnglish>Bet Shemesh</NameEnglish>
+  <Notes></Notes>
+  <Reports>3</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>6150</Code>
+  <NameEnglish>Kiryat Malakhi – Yoav</NameEnglish>
+  <Notes></Notes>
+  <Reports>57</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>6700</Code>
+  <NameEnglish>Jerusalem - Malha</NameEnglish>
+  <Notes></Notes>
+  <Reports>57</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>6500</Code>
+  <NameEnglish>Jerusalem-Biblical Zoo</NameEnglish>
+  <Notes></Notes>
+  <Reports>84</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>5900</Code>
+  <NameEnglish>Ashkelon</NameEnglish>
+  <Notes></Notes>
+  <Reports>70</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>7000</Code>
+  <NameEnglish>Kiryat Gat</NameEnglish>
+  <Notes></Notes>
+  <Reports>15</Reports>
+ </Station>
+ <Station lat="32.681534" long="35.124919">
+  <Code>9600</Code>
+  <NameEnglish>Sderot</NameEnglish>
+  <Notes></Notes>
+  <Reports>37</Reports>
+ </Station>
+ <Station lat="32.681534" long="35.124919">
+  <Code>9650</Code>
+  <NameEnglish>Netivot</NameEnglish>
+  <Notes></Notes>
+  <Reports>69</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>8550</Code>
+  <NameEnglish>Lehavim-Rahat</NameEnglish>
+  <Notes></Notes>
+  <Reports>59</Reports>
+ </Station>
+ <Station lat="32.681534" long="35.124919">
+  <Code>9700</Code>
+  <NameEnglish>Ofakim</NameEnglish>
+  <Notes></Notes>
+  <Reports>8</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>7300</Code>
+  <NameEnglish>B.S. North</NameEnglish>
+  <Notes></Notes>
+  <Reports>91</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>7320</Code>
+  <NameEnglish>Beer Sheva- Center</NameEnglish>
+  <Notes></Notes>
+  <Reports>5</Reports>
+ </Station>
+ <Station lat="32.1120646" long="34.90129706">
+  <Code>7500</Code>
+  <NameEnglish>Dimona</NameEnglish>
+  <Notes></Notes>
+  <Reports>96</Reports>
+ </Station>
+</Stations>

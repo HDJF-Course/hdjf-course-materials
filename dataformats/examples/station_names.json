@@ -1,0 +1,410 @@
+[
+ {
+   "Code": 4620,
+   "NameEnglish": "Tel Aviv HaHagana",
+   "Notes": "Busy",
+   "Reports": 48
+ },
+ {
+   "Code": 5400,
+   "NameEnglish": "Yavne East",
+   "Notes": "Bridge, Taxi",
+   "Reports": 52
+ },
+ {
+   "Code": 2960,
+   "NameEnglish": "Ra'anana South",
+   "Notes": "",
+   "Reports": 68
+ },
+ {
+   "Code": 2940,
+   "NameEnglish": "Ra'anana West",
+   "Notes": "Sat \"Hi\"",
+   "Reports": 60
+ },
+ {
+   "Code": 1600,
+   "NameEnglish": "Nahariyya",
+   "Notes": "North!",
+   "Reports": 77
+ },
+ {
+   "Code": 1500,
+   "NameEnglish": "Acre",
+   "Notes": "",
+   "Reports": 93
+ },
+ {
+   "Code": 1840,
+   "NameEnglish": "Karmiel",
+   "Notes": "",
+   "Reports": 23
+ },
+ {
+   "Code": 1820,
+   "NameEnglish": "Ahihud",
+   "Notes": "",
+   "Reports": 90
+ },
+ {
+   "Code": 1400,
+   "NameEnglish": "Kiryat Motzkin",
+   "Notes": "",
+   "Reports": 25
+ },
+ {
+   "Code": 2200,
+   "NameEnglish": "Haifa-Bat Gallim",
+   "Notes": "",
+   "Reports": 9
+ },
+ {
+   "Code": 700,
+   "NameEnglish": "Kiryat Hayyim",
+   "Notes": "",
+   "Reports": 7
+ },
+ {
+   "Code": 2100,
+   "NameEnglish": "Haifa Center",
+   "Notes": "",
+   "Reports": 89
+ },
+ {
+   "Code": 1300,
+   "NameEnglish": "Hutsot HaMifrats",
+   "Notes": "",
+   "Reports": 39
+ },
+ {
+   "Code": 1220,
+   "NameEnglish": "HaMifrats Central Station",
+   "Notes": "",
+   "Reports": 87
+ },
+ {
+   "Code": 2300,
+   "NameEnglish": "Haifa H.HaKarmell",
+   "Notes": "",
+   "Reports": 69
+ },
+ {
+   "Code": 2500,
+   "NameEnglish": "Atlit",
+   "Notes": "",
+   "Reports": 14
+ },
+ {
+   "Code": 1240,
+   "NameEnglish": "YOKNE'AM-KFAR YEHOSHU'A",
+   "Notes": "",
+   "Reports": 39
+ },
+ {
+   "Code": 1250,
+   "NameEnglish": "MIGDAL HA'EMEK-KFAR BARUKH",
+   "Notes": "",
+   "Reports": 24
+ },
+ {
+   "Code": 1260,
+   "NameEnglish": "Afula R.Eitan",
+   "Notes": "",
+   "Reports": 61
+ },
+ {
+   "Code": 1280,
+   "NameEnglish": "BEIT SHE'AN",
+   "Notes": "",
+   "Reports": 42
+ },
+ {
+   "Code": 2800,
+   "NameEnglish": "Binyamina",
+   "Notes": "",
+   "Reports": 66
+ },
+ {
+   "Code": 2820,
+   "NameEnglish": "Caesarea P,h",
+   "Notes": "",
+   "Reports": 90
+ },
+ {
+   "Code": 3100,
+   "NameEnglish": "Hadera- West",
+   "Notes": "",
+   "Reports": 47
+ },
+ {
+   "Code": 3300,
+   "NameEnglish": "Netanya",
+   "Notes": "",
+   "Reports": 76
+ },
+ {
+   "Code": 3310,
+   "NameEnglish": "NETANYA-SAPIR",
+   "Notes": "",
+   "Reports": 8
+ },
+ {
+   "Code": 3400,
+   "NameEnglish": "Bet Yehoshu''a",
+   "Notes": "",
+   "Reports": 62
+ },
+ {
+   "Code": 9200,
+   "NameEnglish": "H.Sharon Sokolov",
+   "Notes": "",
+   "Reports": 57
+ },
+ {
+   "Code": 8700,
+   "NameEnglish": "Kfar Sava-Nordau",
+   "Notes": "",
+   "Reports": 43
+ },
+ {
+   "Code": 3500,
+   "NameEnglish": "Hertsliyya",
+   "Notes": "",
+   "Reports": 67
+ },
+ {
+   "Code": 8800,
+   "NameEnglish": "Rosh Ha''ayin North",
+   "Notes": "",
+   "Reports": 51
+ },
+ {
+   "Code": 4250,
+   "NameEnglish": "Petah Tikva-Sgulla",
+   "Notes": "",
+   "Reports": 50
+ },
+ {
+   "Code": 4170,
+   "NameEnglish": "P.T. Kiryat Arye",
+   "Notes": "",
+   "Reports": 53
+ },
+ {
+   "Code": 3600,
+   "NameEnglish": "Tel Aviv University T\"U",
+   "Notes": "",
+   "Reports": 48
+ },
+ {
+   "Code": 4100,
+   "NameEnglish": "Bne Brak",
+   "Notes": "",
+   "Reports": 4
+ },
+ {
+   "Code": 3700,
+   "NameEnglish": "Tel Aviv-Center",
+   "Notes": "",
+   "Reports": 26
+ },
+ {
+   "Code": 4600,
+   "NameEnglish": "Tel Aviv - HaShalom",
+   "Notes": "",
+   "Reports": 29
+ },
+ {
+   "Code": 4640,
+   "NameEnglish": "Holon Junction",
+   "Notes": "",
+   "Reports": 29
+ },
+ {
+   "Code": 4660,
+   "NameEnglish": "Holon Wolfson",
+   "Notes": "",
+   "Reports": 56
+ },
+ {
+   "Code": 4680,
+   "NameEnglish": "Bat Yam-Yoseftal",
+   "Notes": "",
+   "Reports": 15
+ },
+ {
+   "Code": 4690,
+   "NameEnglish": "Bat.Y-Komemiyyut",
+   "Notes": "",
+   "Reports": 43
+ },
+ {
+   "Code": 8600,
+   "NameEnglish": "Ben Gurion Airport",
+   "Notes": "",
+   "Reports": 70
+ },
+ {
+   "Code": 4800,
+   "NameEnglish": "Kfar Habbad",
+   "Notes": "",
+   "Reports": 98
+ },
+ {
+   "Code": 9800,
+   "NameEnglish": "R.Moshe-Dayan",
+   "Notes": "",
+   "Reports": 26
+ },
+ {
+   "Code": 5150,
+   "NameEnglish": "Lod-Ganne Aviv",
+   "Notes": "",
+   "Reports": 7
+ },
+ {
+   "Code": 9100,
+   "NameEnglish": "R.HaRishonim",
+   "Notes": "",
+   "Reports": 80
+ },
+ {
+   "Code": 5000,
+   "NameEnglish": "Lod",
+   "Notes": "",
+   "Reports": 33
+ },
+ {
+   "Code": 5300,
+   "NameEnglish": "Be''er Ya''akov",
+   "Notes": "",
+   "Reports": 11
+ },
+ {
+   "Code": 5010,
+   "NameEnglish": "Ramla",
+   "Notes": "",
+   "Reports": 73
+ },
+ {
+   "Code": 5200,
+   "NameEnglish": "Rehovot",
+   "Notes": "",
+   "Reports": 30
+ },
+ {
+   "Code": 400,
+   "NameEnglish": "Modi'in-Center M\"C",
+   "Notes": "",
+   "Reports": 29
+ },
+ {
+   "Code": 300,
+   "NameEnglish": "Pa'ate Modi'in",
+   "Notes": "",
+   "Reports": 15
+ },
+ {
+   "Code": 9000,
+   "NameEnglish": "Yavne West",
+   "Notes": "",
+   "Reports": 13
+ },
+ {
+   "Code": 6900,
+   "NameEnglish": "Mazkeret Batya",
+   "Notes": "",
+   "Reports": 57
+ },
+ {
+   "Code": 680,
+   "NameEnglish": "Jerusalem - Yitzhak Navon",
+   "Notes": "",
+   "Reports": 17
+ },
+ {
+   "Code": 5800,
+   "NameEnglish": "Ashdod- Ad Halom",
+   "Notes": "",
+   "Reports": 73
+ },
+ {
+   "Code": 6300,
+   "NameEnglish": "Bet Shemesh",
+   "Notes": "",
+   "Reports": 96
+ },
+ {
+   "Code": 6150,
+   "NameEnglish": "Kiryat Malakhi – Yoav",
+   "Notes": "",
+   "Reports": 53
+ },
+ {
+   "Code": 6700,
+   "NameEnglish": "Jerusalem - Malha",
+   "Notes": "",
+   "Reports": 44
+ },
+ {
+   "Code": 6500,
+   "NameEnglish": "Jerusalem-Biblical Zoo",
+   "Notes": "",
+   "Reports": 75
+ },
+ {
+   "Code": 5900,
+   "NameEnglish": "Ashkelon",
+   "Notes": "",
+   "Reports": 35
+ },
+ {
+   "Code": 7000,
+   "NameEnglish": "Kiryat Gat",
+   "Notes": "",
+   "Reports": 52
+ },
+ {
+   "Code": 9600,
+   "NameEnglish": "Sderot",
+   "Notes": "",
+   "Reports": 58
+ },
+ {
+   "Code": 9650,
+   "NameEnglish": "Netivot",
+   "Notes": "",
+   "Reports": 20
+ },
+ {
+   "Code": 8550,
+   "NameEnglish": "Lehavim-Rahat",
+   "Notes": "",
+   "Reports": 25
+ },
+ {
+   "Code": 9700,
+   "NameEnglish": "Ofakim",
+   "Notes": "",
+   "Reports": 85
+ },
+ {
+   "Code": 7300,
+   "NameEnglish": "B.S. North",
+   "Notes": "",
+   "Reports": 10
+ },
+ {
+   "Code": 7320,
+   "NameEnglish": "Beer Sheva- Center",
+   "Notes": "",
+   "Reports": 4
+ },
+ {
+   "Code": 7500,
+   "NameEnglish": "Dimona",
+   "Notes": "",
+   "Reports": 23
+ }
+]
